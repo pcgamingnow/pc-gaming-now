@@ -1,37 +1,59 @@
 {
-  "updated_at": "2026-08-05T14:59:34.293741+00:00",
+  "updated_at": "2026-08-05T15:53:18.450888+00:00",
   "articles": [
     {
-      "title": "Tell a whole town what to believe in Static Hour, a rolodex-flipping newsroom thriller about investigating a strange epidemic of violence",
-      "summary": "Static Hour is a spooky narrative simulation designed to give journalists a god complex, or at least, aggravate the ones",
+      "title": "200時間後も、マラソンの最大の秘密は、ライバル選手のリズムを解読している",
+      "summary": "あなたがそれを乗り越えると仮定するときに右起こるマラソンの試合全体フェーズがあります。 これは、チームメイトがダウンしていることを示す冗談効果から始まります - ボルト火災や暗いコーナーで彼らの背中にノック。 それから、助けを借りるために急いでいるので、第二の傾き:別のチームメイトは、目に見えないことで無力に浸透しました。 周りの足跡:完全な敵チーム、そして",
+      "url": "https://www.rockpapershotgun.com/even-after-200-hours-marathons-greatest-secret-is-still-deciphering-the-rhythms-of-rival-players",
+      "published": "2026-08-05T15:39:07+00:00",
+      "source": "Rock Paper Shotgun",
+      "category": "PC GAMING",
+      "title_original": "Even after 200 hours, Marathon's greatest secret is still deciphering the rhythms of rival players"
+    },
+    {
+      "title": "レオネ・ケネディとグレース・アシュクロフの背後にある俳優は、今月Gamescomで将来のゲームショーの舞台に行くことができます",
+      "summary": "建物に悪くない住民がいます。",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-actors-behind-leon-kennedy-and-grace-ashcroft-will-take-to-the-stage-for-the-future-games-show-at-gamescom-this-month/",
+      "published": "2026-08-05T15:20:53+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "The actors behind Leon Kennedy and Grace Ashcroft will take to the stage for the Future Games Show at Gamescom this month"
+    },
+    {
+      "title": "静的な時間を信じるすべての町に教えてください。, ルーロデックス フリップニュースルーム 暴力の奇妙な流行を調査することについてのスリラー",
+      "summary": "静的な時間とは、ジャーナリストが神を複雑にしたり、少なくともすでに持っているものを悪化させるように設計されたスプーキーな物語シミュレーションです。 1980年代にセットされ、ある種の幸福に陥った小さな町でナイトシフトニュースエディタとしてあなたを投げます。 家族を攻撃する人々、アンネシアの発生、およびER部屋をオーバーフローする人々についての有望な伝達があり",
       "url": "https://www.rockpapershotgun.com/tell-a-whole-town-what-to-believe-in-static-hour-a-rolodex-flipping-newsroom-thriller-about-investigating-a-strange-epidemic-of-violence",
       "published": "2026-08-05T14:54:53+00:00",
       "source": "Rock Paper Shotgun",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "Tell a whole town what to believe in Static Hour, a rolodex-flipping newsroom thriller about investigating a strange epidemic of violence"
     },
     {
-      "title": "'AI PCs will become more important': AMD's Lisa Su remains optimistic about the market despite runaway pricing caused by *checks notes* the AI industry",
-      "summary": "\"I remain optimistic about the PC market as an important way for us to reach a broader set of users.\"",
+      "title": "「AI PCはより重要になります」:AMDのリサ Su は、*checks note* による暴走価格にもかかわらず、市場の最適化を維持します。",
+      "summary": "「PC市場は、より広範なユーザーのセットに到達するために重要な方法として楽観的です。」",
       "url": "https://www.pcgamer.com/software/ai/ai-pcs-will-become-more-important-amds-lisa-su-remains-optimistic-about-the-market-despite-runaway-pricing-caused-by-checks-notes-the-ai-industry/",
       "published": "2026-08-05T14:46:00+00:00",
       "source": "PC Gamer",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "'AI PCs will become more important': AMD's Lisa Su remains optimistic about the market despite runaway pricing caused by *checks notes* the AI industry"
     },
     {
-      "title": "Saudi-acquired EA is reportedly planning to make massive cuts after taking $18 billion of debt, and we all know what that means",
-      "summary": "Layoff season isn't over.",
+      "title": "サウジアラビアが買収したEAは、約18億ドルの債務を取った後、大幅な切株を作ることを計画していると報告されており、私たちは、その意味を知っています",
+      "summary": "レイオフシーズンは終わりません。",
       "url": "https://www.pcgamer.com/gaming-industry/saudi-acquired-ea-is-reportedly-planning-to-make-massive-cuts-after-taking-usd18-billion-of-debt-and-we-all-know-what-that-means/",
       "published": "2026-08-05T14:38:23+00:00",
       "source": "PC Gamer",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "Saudi-acquired EA is reportedly planning to make massive cuts after taking $18 billion of debt, and we all know what that means"
     },
     {
-      "title": "EA has fixed a niche Battlefield 6 issue where some Nvidia GPUs were crashing while changing attachments or 'playing on maps with large bodies of water'",
-      "summary": "It seems like it was linked to a recent Nvidia driver update.",
+      "title": "EAは、Nvidia GPUが添付ファイルを変更するときにクラッシュしていたニッチバトルフィールド6の問題を修正しました。",
+      "summary": "最近のNvidiaドライバの更新にリンクされたようです。",
       "url": "https://www.pcgamer.com/hardware/graphics-cards/ea-has-fixed-a-niche-battlefield-6-issue-where-some-nvidia-gpus-were-crashing-while-changing-attachments-or-playing-on-maps-with-large-bodies-of-water/",
       "published": "2026-08-05T14:28:42+00:00",
       "source": "PC Gamer",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "EA has fixed a niche Battlefield 6 issue where some Nvidia GPUs were crashing while changing attachments or 'playing on maps with large bodies of water'"
     },
     {
       "title": "冒険×ショップ経営ARPG『Moonlighter 2』9月2日に正式リリースへ。ダンジョンで仕入れて村で売る二重生活、遊びが深まる大型アプデも到来へ",
@@ -39,15 +61,17 @@
       "url": "https://automaton-media.com/articles/newsjp/20260805-458631/",
       "published": "2026-08-05T14:06:25+00:00",
       "source": "AUTOMATON",
-      "category": "JAPAN"
+      "category": "JAPAN",
+      "title_original": "冒険×ショップ経営ARPG『Moonlighter 2』9月2日に正式リリースへ。ダンジョンで仕入れて村で売る二重生活、遊びが深まる大型アプデも到来へ"
     },
     {
-      "title": "Beast of Reincarnation is getting some \"story pacing improvements\" in its first patch, as part of \"ongoing adjustments\" from Game Freak",
-      "summary": "Beast of Reincarnation , the soulslike about a girl and her dog battling an array of beasties in post-apocalyptic Japan,",
+      "title": "ゲームフリークの「調整」の一環として、最初のパッチで「歴史のパッシング改善」をいくつか取得しています。",
+      "summary": "誕生の獣、少女と犬の魂は、後報復日本における獣の配列を打たれ、昨日、8月4日に出ました。 開発者のゲームフリークは、すでにそれのためのパッチで働いています, いくつかの「歴史のパッシングの改善」を含む最初のセットでは、うまくいけば、私たちのカルムは、彼の新しく出版されたバストで強調したグリップの一部に対処するのに役立ちます 生まれ変わるレビュー . もっと読",
       "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-is-getting-some-story-pacing-improvements-in-its-first-patch-as-part-of-ongoing-adjustments-from-game-freak",
       "published": "2026-08-05T13:45:17+00:00",
       "source": "Rock Paper Shotgun",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "Beast of Reincarnation is getting some \"story pacing improvements\" in its first patch, as part of \"ongoing adjustments\" from Game Freak"
     },
     {
       "title": "冒険×ショップ経営ARPG『Moonlighter』Steam版、期間限定で無料配布へ。定価2050円の人気作",
@@ -55,47 +79,35 @@
       "url": "https://automaton-media.com/articles/newsjp/20260805-458624/",
       "published": "2026-08-05T13:36:22+00:00",
       "source": "AUTOMATON",
-      "category": "JAPAN"
+      "category": "JAPAN",
+      "title_original": "冒険×ショップ経営ARPG『Moonlighter』Steam版、期間限定で無料配布へ。定価2050円の人気作"
     },
     {
-      "title": "Sovereign Tower looks like a cosy management game, but it's ruthless, full of murder and impossible choices, and features one of the best time travel systems I've ever encountered",
-      "summary": "Don't listen to demons. Or maybe do?",
+      "title": "ソバージニア タワーは居心地の良い管理ゲームのように見えますが、それは無事で、殺人と不可能な選択肢がいっぱいで、私が遭遇した最高の時間旅行システムの1つを備えています",
+      "summary": "悪魔を聴かないでください。 それともやる?",
       "url": "https://www.pcgamer.com/games/rpg/sovereign-tower-looks-like-a-cosy-management-game-but-its-ruthless-full-of-murder-and-impossible-choices-and-features-one-of-the-best-time-travel-systems-ive-ever-encountered/",
       "published": "2026-08-05T13:15:37+00:00",
       "source": "PC Gamer",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "Sovereign Tower looks like a cosy management game, but it's ruthless, full of murder and impossible choices, and features one of the best time travel systems I've ever encountered"
     },
     {
-      "title": "I like being king of some weird and sexy knights in fantasy RPG Sovereign Tower, but I'm not convinced the time travel element is my cup of spiderwine",
-      "summary": "Between the accidental incest, the dragons, and the farcical aquatic ceremonies , King Arthur 's reign was a real roller",
+      "title": "私はファンタシーRPGスバージンの塔で奇妙なとセクシーな騎士の王であることが好きですが、私は時間旅行の要素が私のカップである確信していません",
+      "summary": "偶然の近江の間に、ドラゴンと遠方水生の儀式、キングアーサーの治具は、実際のローラーコースターと半分だったが、少なくとも彼はウルスラを持っていなかった。 Sovereign Tower では、ワイルドウィッツゲームからターンベースの「ラウンドテーブル管理RPG」、Ursula は、フォールデンのファンタシーな王国の周りのクエストに問い合わせることができる騎士の",
       "url": "https://www.rockpapershotgun.com/i-like-being-king-of-some-weird-and-sexy-knights-in-fantasy-rpg-sovereign-tower-but-im-not-convinced-the-time-travel-element-is-my-cup-of-spiderwine",
       "published": "2026-08-05T13:00:00+00:00",
       "source": "Rock Paper Shotgun",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "I like being king of some weird and sexy knights in fantasy RPG Sovereign Tower, but I'm not convinced the time travel element is my cup of spiderwine"
     },
     {
-      "title": "AMD made over 8 times as much revenue on data centers as it did gaming last quarter",
-      "summary": "This might suggest AI is something of a snake eating its own tail—but what else is new?",
+      "title": "AMDは、ゲームの最終四半期をしたため、データセンターの収益が8倍に増加しました",
+      "summary": "これは、AIが自分の尾を食べるヘビの何かを示唆するかもしれませんが、他に新しいものは何ですか?",
       "url": "https://www.pcgamer.com/software/ai/amd-made-over-8-times-as-much-revenue-on-data-centers-as-it-did-gaming-last-quarter/",
       "published": "2026-08-05T12:27:26+00:00",
       "source": "PC Gamer",
-      "category": "PC GAMING"
-    },
-    {
-      "title": "​龍が如く開発元新作『STRANGER THAN HEAVEN』の「TGS2026」出展内容が発表。「遊べる・観られる・貰える」の大型展示",
-      "summary": "セガ/RGGスタジオは8月5日、特別生放送番組にて、完全新作『STRANGER THAN HEAVEN』を「TOKYO GAME SHOW 2026」における出展詳細を発表した。",
-      "url": "https://automaton-media.com/articles/newsjp/strangerthanheaven-tgs-20260805-458614/",
-      "published": "2026-08-05T12:22:34+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN"
-    },
-    {
-      "title": "Beast Of Reincarnation review: A briefly fun Sekiro-like that becomes chewing gum for the brain",
-      "summary": "Beast Of Reincarnation opened pretty promisingly. Its first stretch dropped me into a sprawling fantasy forestscape full",
-      "url": "https://www.rockpapershotgun.com/beast-of-reincarnation-review",
-      "published": "2026-08-05T11:54:55+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING"
+      "category": "PC GAMING",
+      "title_original": "AMD made over 8 times as much revenue on data centers as it did gaming last quarter"
     }
   ]
 }
