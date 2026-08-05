@@ -2,6 +2,7 @@ name: PC GAMING NOW Daily Update
 
 on:
   schedule:
+    # UTC 21:00 = 日本時間 翌朝6:00
     - cron: "0 21 * * *"
   workflow_dispatch:
 
@@ -16,7 +17,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update news
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install translator
+        run: |
+          python -m pip install --upgrade pip
+          pip install argostranslate
+
+      - name: Update and translate news
         run: python scripts/fetch_news.py
 
       - name: Commit news
@@ -24,5 +35,5 @@ jobs:
           git config user.name "PC GAMING NOW Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git diff --cached --quiet || git commit -m "chore: daily news update"
+          git diff --cached --quiet || git commit -m "chore: update Japanese news"
           git push
