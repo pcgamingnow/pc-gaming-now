@@ -1,0 +1,26 @@
+{
+  "feeds": [
+    {
+      "name": "Steam News",
+      "url": "https://store.steampowered.com/feeds/news.xml",
+      "category": "STEAM"
+    },
+    {
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/rss/",
+      "category": "PC GAMING"
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/feed",
+      "category": "PC GAMING"
+    },
+    {
+      "name": "AUTOMATON",
+      "url": "https://automaton-media.com/feed/",
+      "category": "JAPAN"
+    }
+  ],
+  "max_articles": 12,
+  "hours": 36
+}

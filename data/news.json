@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-08-05T00:00:00Z",
+  "articles": [
+    {
+      "title": "PC GAMING NOW 自動更新テスト",
+      "summary": "RSSを設定すると毎朝ニュースに更新されます。",
+      "url": "https://example.com/",
+      "published": "2026-08-05T00:00:00Z",
+      "source": "PC GAMING NOW",
+      "category": "NEW"
+    }
+  ]
+}
