@@ -1,14 +1,261 @@
-<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PC GAMING NOW — PCゲームニュース</title><style>
-:root{--bg:#07090d;--p:#101620;--t:#f5f7fb;--m:#8f99a9;--l:#222b39;--a:#63f5b0}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 80% -10%,#1b2944,#07090d 45%);color:var(--t);font-family:system-ui,-apple-system,"Segoe UI",sans-serif}a{color:inherit;text-decoration:none}.wrap{max-width:1180px;margin:auto;padding:0 22px}header{position:sticky;top:0;background:#07090ddd;backdrop-filter:blur(14px);border-bottom:1px solid var(--l);z-index:3}.nav{height:68px;display:flex;align-items:center;gap:28px}.logo{font-size:21px;font-weight:900}.logo span{color:var(--a)}nav{display:flex;gap:20px;color:#b7c0cc;font-size:14px}.updated{margin-left:auto;color:var(--m);font-size:11px}.hero{padding:50px 0 30px}.eyebrow{color:var(--a);font-size:11px;font-weight:900;letter-spacing:2px}h1{font-size:clamp(38px,6vw,68px);line-height:.95;letter-spacing:-3px;margin:10px 0 18px}.hero p{color:var(--m);line-height:1.7;max-width:680px}.grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}.card{background:linear-gradient(145deg,#141c28,#0c1118);border:1px solid var(--l);border-radius:16px;overflow:hidden}.feature{min-height:330px;padding:28px;display:flex;flex-direction:column;justify-content:end;background:linear-gradient(0deg,#000d,transparent),linear-gradient(135deg,#29405e,#171b29 60%,#42345e)}.tag{display:inline-block;width:max-content;background:var(--a);color:#06120c;border-radius:999px;padding:5px 9px;font-size:10px;font-weight:900}.feature h2{font-size:30px;line-height:1.12;margin:10px 0}.meta{color:#99a4b5;font-size:11px}.side{padding:20px}.side h3{margin:0 0 12px}.mini{display:block;padding:14px 0;border-top:1px solid var(--l)}.mini b{display:block;line-height:1.45}.mini span{display:block;color:var(--m);font-size:11px;margin-top:6px}.section{padding:42px 0}.head{display:flex;justify-content:space-between;align-items:end;margin-bottom:15px}.head h2{margin:0;font-size:24px}.more{color:var(--a);font-size:12px}.newsgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.news{padding:17px}.thumb{height:130px;border-radius:11px;margin-bottom:14px;background:linear-gradient(135deg,#26354d,#493b67);background-size:cover;background-position:center;background-repeat:no-repeat}.news h3{font-size:16px;line-height:1.42;margin:9px 0}.news p{font-size:12px;line-height:1.6;color:var(--m);margin:0 0 12px}.source{font-size:10px;color:#aeb7c4}.empty{padding:35px;text-align:center;color:var(--m);border:1px dashed var(--l);border-radius:14px}.chips{display:flex;gap:9px;flex-wrap:wrap}.chip{padding:10px 14px;border:1px solid var(--l);border-radius:999px;color:#c8ced8;font-size:12px}footer{border-top:1px solid var(--l);margin-top:25px;padding:28px 0;color:#687486;font-size:11px}@media(max-width:820px){nav{display:none}.grid,.newsgrid{grid-template-columns:1fr}}
-</style></head><body><header><div class="wrap nav"><div class="logo">PC <span>GAMING NOW</span></div><nav><a href="#latest">最新ニュース</a><a href="#categories">カテゴリ</a></nav><div id="updated" class="updated">更新情報を読み込み中…</div></div></header><main class="wrap"><section class="hero"><div class="eyebrow">PC GAMING NEWS / DAILY</div><h1>ゲームの「今」を、<br>もっと速く。</h1><p>Steam、新作、アップデート、セールなど、PCゲーマーが今日知っておきたいニュースを自動で集めて、短く読みやすくまとめます。</p></section><section class="grid"><a id="heroLink" class="card feature" href="#" target="_blank" rel="noopener"><span class="tag">TODAY'S PICK</span><h2 id="heroTitle">ニュースを読み込み中…</h2><div id="heroMeta" class="meta"></div></a><aside class="card side"><h3>🔥 話題のニュース</h3><div id="trending"></div></aside></section><section class="section" id="latest"><div class="head"><h2>Latest News</h2><span class="more">自動更新 →</span></div><div id="news" class="newsgrid"></div></section><section class="section" id="categories"><div class="head"><h2>Categories</h2></div><div class="chips"><a class="chip" href="#latest">🎮 PCゲーム</a><a class="chip" href="#latest">🟦 Steam</a><a class="chip" href="#latest">🚀 新作</a><a class="chip" href="#latest">⚡ アップデート</a><a class="chip" href="#latest">💰 セール</a><a class="chip" href="#latest">⭐ レビュー</a></div></section></main><footer><div class="wrap">© 2026 PC GAMING NOW　｜　原記事へのリンクを掲載しています。</div></footer><script>
-const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));function fmt(x){return new Date(x).toLocaleString("ja-JP",{timeZone:"Asia/Tokyo",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"})}async function load(){const d=await fetch("./data/news.json?"+Date.now()).then(r=>r.json());document.querySelector("#updated").textContent="最終更新 "+fmt(d.updated_at);let a=d.articles||[];if(a[0]){
-heroTitle.textContent=a[0].title;
-heroMeta.textContent=`${fmt(a[0].published)} ｜ ${a[0].source}`;
-heroLink.href=a[0].url;
-if(a[0].image){
-heroLink.style.backgroundImage=`linear-gradient(0deg,rgba(0,0,0,.8),rgba(0,0,0,.1)),url("${a[0].image}")`;
-heroLink.style.backgroundSize="cover";
-heroLink.style.backgroundPosition="center";
-}
-}trending.innerHTML=a.slice(0,4).map(x=>`<a class="mini" href="${esc(x.url)}" target="_blank"><b>${esc(x.title)}</b><span>${fmt(x.published)} ｜ ${esc(x.source)}</span></a>`).join("")||"<div class='empty'>ニュースがありません</div>";news.innerHTML=a.map(x=>`<article class="card news"><a href="${esc(x.url)}" target="_blank"><div class="thumb" style="${x.image?`background-image:url(${x.image})`:``}"></div><span class="tag">${esc(x.category||"NEWS")}</span><h3>${esc(x.title)}</h3><p>${esc(x.summary||"原記事の要点をチェック。")}</p><div class="source">${fmt(x.published)} ｜ ${esc(x.source)}</div></a></article>`).join("")||"<div class='empty'>ニュースがありません</div>"}load().catch(()=>news.innerHTML="<div class='empty'>ニュースデータを読み込めませんでした。</div>");
-</script></body></html>
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>PC GAMING NOW — PCゲームニュース</title>
+  <style>
+    :root{
+      --bg:#07090d;
+      --p:#101620;
+      --t:#f5f7fb;
+      --m:#8f99a9;
+      --l:#222b39;
+      --a:#63f5b0;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background:radial-gradient(circle at 80% -10%,#1b2944,#07090d 45%);
+      color:var(--t);
+      font-family:system-ui,-apple-system,"Segoe UI",sans-serif
+    }
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:1180px;margin:auto;padding:0 22px}
+    header{
+      position:sticky;
+      top:0;
+      background:#07090ddd;
+      backdrop-filter:blur(14px);
+      border-bottom:1px solid var(--l);
+      z-index:3
+    }
+    .nav{height:68px;display:flex;align-items:center;gap:28px}
+    .logo{font-size:21px;font-weight:900}
+    .logo span{color:var(--a)}
+    nav{display:flex;gap:20px;color:#b7c0cc;font-size:14px}
+    .updated{margin-left:auto;color:var(--m);font-size:11px}
+    .hero{padding:50px 0 30px}
+    .eyebrow{color:var(--a);font-size:11px;font-weight:900;letter-spacing:2px}
+    h1{font-size:clamp(38px,6vw,68px);line-height:.95;letter-spacing:-3px;margin:10px 0 18px}
+    .hero p{color:var(--m);line-height:1.7;max-width:680px}
+    .grid{display:grid;grid-template-columns:2fr 1fr;gap:16px}
+    .card{
+      background:linear-gradient(145deg,#141c28,#0c1118);
+      border:1px solid var(--l);
+      border-radius:16px;
+      overflow:hidden
+    }
+    .feature{
+      min-height:330px;
+      padding:28px;
+      display:flex;
+      flex-direction:column;
+      justify-content:end;
+      background:
+        linear-gradient(0deg,#000d,transparent),
+        linear-gradient(135deg,#29405e,#171b29 60%,#42345e);
+      background-size:cover;
+      background-position:center
+    }
+    .tag{
+      display:inline-block;
+      width:max-content;
+      background:var(--a);
+      color:#06120c;
+      border-radius:999px;
+      padding:5px 9px;
+      font-size:10px;
+      font-weight:900
+    }
+    .feature h2{font-size:30px;line-height:1.12;margin:10px 0}
+    .meta{color:#99a4b5;font-size:11px}
+    .side{padding:20px}
+    .side h3{margin:0 0 12px}
+    .mini{display:block;padding:14px 0;border-top:1px solid var(--l)}
+    .mini:first-of-type{border-top:0}
+    .mini b{display:block;line-height:1.45}
+    .mini span{display:block;color:var(--m);font-size:11px;margin-top:6px}
+    .section{padding:42px 0}
+    .head{display:flex;justify-content:space-between;align-items:end;margin-bottom:15px}
+    .head h2{margin:0;font-size:24px}
+    .more{color:var(--a);font-size:12px}
+    .newsgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}
+    .news{padding:17px}
+    .thumb{
+      height:130px;
+      border-radius:11px;
+      margin-bottom:14px;
+      background:linear-gradient(135deg,#26354d,#493b67);
+      background-size:cover;
+      background-position:center;
+      background-repeat:no-repeat
+    }
+    .news h3{font-size:16px;line-height:1.42;margin:9px 0}
+    .news p{font-size:12px;line-height:1.6;color:var(--m);margin:0 0 12px}
+    .source{font-size:10px;color:#aeb7c4}
+    .empty{
+      padding:35px;
+      text-align:center;
+      color:var(--m);
+      border:1px dashed var(--l);
+      border-radius:14px
+    }
+    .chips{display:flex;gap:9px;flex-wrap:wrap}
+    .chip{
+      padding:10px 14px;
+      border:1px solid var(--l);
+      border-radius:999px;
+      color:#c8ced8;
+      font-size:12px
+    }
+    footer{
+      border-top:1px solid var(--l);
+      margin-top:25px;
+      padding:28px 0;
+      color:#687486;
+      font-size:11px
+    }
+    @media(max-width:820px){
+      nav{display:none}
+      .grid,.newsgrid{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap nav">
+      <div class="logo">PC <span>GAMING NOW</span></div>
+      <nav>
+        <a href="#latest">最新ニュース</a>
+        <a href="#categories">カテゴリ</a>
+      </nav>
+      <div id="updated" class="updated">更新情報を読み込み中…</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="eyebrow">PC GAMING NEWS / DAILY</div>
+      <h1>ゲームの「今」を、<br>もっと速く。</h1>
+      <p>Steam、新作、アップデート、セールなど、PCゲーマーが今日知っておきたいニュースを自動で集めて、短く読みやすくまとめます。</p>
+    </section>
+
+    <section class="grid">
+      <a id="heroLink" class="card feature" href="#" target="_blank" rel="noopener">
+        <span class="tag">TODAY'S PICK</span>
+        <h2 id="heroTitle">ニュースを読み込み中…</h2>
+        <div id="heroMeta" class="meta"></div>
+      </a>
+
+      <aside class="card side">
+        <h3>🔥 話題のニュース</h3>
+        <div id="trending"></div>
+      </aside>
+    </section>
+
+    <section class="section" id="latest">
+      <div class="head">
+        <h2>Latest News</h2>
+        <span class="more">自動更新 →</span>
+      </div>
+      <div id="news" class="newsgrid"></div>
+    </section>
+
+    <section class="section" id="categories">
+      <div class="head"><h2>Categories</h2></div>
+      <div class="chips">
+        <a class="chip" href="#latest">🎮 PCゲーム</a>
+        <a class="chip" href="#latest">🟦 Steam</a>
+        <a class="chip" href="#latest">🚀 新作</a>
+        <a class="chip" href="#latest">⚡ アップデート</a>
+        <a class="chip" href="#latest">💰 セール</a>
+        <a class="chip" href="#latest">⭐ レビュー</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">© 2026 PC GAMING NOW　｜　原記事へのリンクを掲載しています。</div>
+  </footer>
+
+  <script>
+    const esc = (value) =>
+      String(value ?? "").replace(/[&<>"']/g, (char) => ({
+        "&":"&amp;",
+        "<":"&lt;",
+        ">":"&gt;",
+        '"':"&quot;",
+        "'":"&#39;"
+      }[char]));
+
+    function fmt(value){
+      return new Date(value).toLocaleString("ja-JP", {
+        timeZone:"Asia/Tokyo",
+        month:"2-digit",
+        day:"2-digit",
+        hour:"2-digit",
+        minute:"2-digit"
+      });
+    }
+
+    async function load(){
+      const response = await fetch(`./data/news.json?${Date.now()}`);
+      const data = await response.json();
+      const articles = data.articles || [];
+
+      document.querySelector("#updated").textContent =
+        `最終更新 ${fmt(data.updated_at)}`;
+
+      const hero = document.querySelector("#heroLink");
+      const heroTitle = document.querySelector("#heroTitle");
+      const heroMeta = document.querySelector("#heroMeta");
+
+      if(articles[0]){
+        const top = articles[0];
+        heroTitle.textContent = top.title;
+        heroMeta.textContent = `${fmt(top.published)} ｜ ${top.source}`;
+        hero.href = top.url;
+
+        if(top.image){
+          hero.style.backgroundImage =
+            `linear-gradient(0deg,rgba(0,0,0,.82),rgba(0,0,0,.08)),url("${top.image}")`;
+        }
+      }
+
+      document.querySelector("#trending").innerHTML =
+        articles.slice(0,4).map((article) => `
+          <a class="mini" href="${esc(article.url)}" target="_blank" rel="noopener">
+            <b>${esc(article.title)}</b>
+            <span>${fmt(article.published)} ｜ ${esc(article.source)}</span>
+          </a>
+        `).join("") || "<div class='empty'>ニュースがありません</div>";
+
+      document.querySelector("#news").innerHTML =
+        articles.map((article) => {
+          const imageStyle = article.image
+            ? `background-image:url(&quot;${esc(article.image)}&quot;)`
+            : "";
+
+          return `
+            <article class="card news">
+              <a href="${esc(article.url)}" target="_blank" rel="noopener">
+                <div class="thumb" style="${imageStyle}"></div>
+                <span class="tag">${esc(article.category || "NEWS")}</span>
+                <h3>${esc(article.title)}</h3>
+                <p>${esc(article.summary || "原記事の要点をチェック。")}</p>
+                <div class="source">${fmt(article.published)} ｜ ${esc(article.source)}</div>
+              </a>
+            </article>
+          `;
+        }).join("") || "<div class='empty'>ニュースがありません</div>";
+    }
+
+    load().catch((error) => {
+      console.error(error);
+      document.querySelector("#news").innerHTML =
+        "<div class='empty'>ニュースデータを読み込めませんでした。</div>";
+    });
+  </script>
+</body>
+</html>
