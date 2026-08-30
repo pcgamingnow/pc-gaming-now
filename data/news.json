@@ -1,125 +1,125 @@
 {
-  "updated_at": "2026-08-29T21:06:09.207195+00:00",
+  "updated_at": "2026-08-30T21:06:10.631342+00:00",
   "articles": [
     {
-      "title": "長いダークシーケルブラックフロストはキャンセルされていませんが、開発者Hinterlandは元の生存モードにもう少し焦点を合わせています",
-      "summary": "ロングダーク開発者のHinterland Studioで少しずつ変化するモノ。 今年初めに、Wintermuteの5番目と最終エピソードのリリースでまとめたロングダークのストーリーモード。 その後、2024年に発表された続編に焦点が置かれているとかなり考えていたかもしれません。 しかし、Hinterlandによると、ブラックフロストはまだ作品の中にありますが",
-      "url": "https://www.rockpapershotgun.com/the-long-dark-sequel-blackfrost-hasnt-been-cancelled-but-developer-hinterland-are-shifting-a-bit-more-focus-onto-the-originals-survival-mode",
-      "image": "https://assetsio.gnwcdn.com/The-Long-Dark-survivor-back.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-08-29T20:59:26+00:00",
+      "title": "スター・ウォーズ・ガラクシーズ・コミュニティ・サーバーは、レッドディット・モデレータによるAI支援を明らかにし、プライマリバル・グラッジを抱く",
+      "summary": "「私たちは明らかにこれによって悩まされていますが、私たちはすべてのあなたと一緒に前面にいるのではなく、レジェンドを素晴らしいものにすることに焦点を絞ったままにすることができます。」",
+      "url": "https://www.pcgamer.com/games/mmo/a-star-wars-galaxies-community-server-was-allegedly-hacked-with-ai-assistance-by-a-reddit-moderator-harboring-a-primeval-grudge/",
+      "image": "https://cdn.mos.cms.futurecdn.net/MghpXT92BorehH86qFuZNX-1280-80.jpg",
+      "published": "2026-08-30T20:02:00+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "A Star Wars Galaxies community server was allegedly hacked with AI assistance by a Reddit moderator harboring a primeval grudge"
+    },
+    {
+      "title": "スター・ウォーズ・ゼロ・カンパニーのパーマデアスは、RPGではなく、ほとんどのRPGよりも優れたRPGを作る",
+      "summary": "選択と結果対. 死と結果.",
+      "url": "https://www.pcgamer.com/games/rpg/star-wars-zero-companys-permadeath-makes-it-a-better-rpg-than-most-rpgs-even-though-its-not-really-an-rpg/",
+      "image": "https://cdn.mos.cms.futurecdn.net/kLYSToeskvffSL8CuWh9Nf-1280-80.jpg",
+      "published": "2026-08-30T19:14:12+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Star Wars Zero Company's permadeath makes it a better RPG than most RPGs, even though it's not really an RPG"
+    },
+    {
+      "title": "Total War: Warhammer 40,000がGamescomで最高のPCゲームを獲得",
+      "summary": "ジンダーク戦略ゲームのプレビューは、ヘッドを回しています。",
+      "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-wins-best-pc-game-at-gamescom/",
+      "image": "https://cdn.mos.cms.futurecdn.net/L3qZSURkpAywrVSAwEsDpH-1280-80.jpg",
+      "published": "2026-08-30T18:57:09+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Total War: Warhammer 40,000 wins best PC game at Gamescom"
+    },
+    {
+      "title": "GTA 6 は、GTA 5 として 10 回以上のユニークなアニメーションを 1 つの 1 つの NPC ごとに専用のチーム 'art-directing' のおかげで、",
+      "summary": "600,000以上。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
+      "image": "https://cdn.mos.cms.futurecdn.net/d98cNJbDERxr7uvvmasfBX-1280-80.jpg",
+      "published": "2026-08-30T18:40:46+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5"
+    },
+    {
+      "title": "エルデン リングのターニッシュ エディションは、それ自体で十分にエキサイティングですが、ゲームの起動日ハイプを適切に体験する最後のチャンスです",
+      "summary": "「快適なコンマ・ナイト」「ミスト・ビースト」と「ファー・ピクルス」の最後の1本。",
+      "url": "https://www.pcgamer.com/games/rpg/elden-rings-tarnished-edition-is-exciting-enough-on-its-own-but-its-also-our-last-chance-to-properly-experience-the-games-launch-day-hype/",
+      "image": "https://cdn.mos.cms.futurecdn.net/ugZcTa66iXo8ZNknx9uJiM-1280-80.jpg",
+      "published": "2026-08-30T17:09:18+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Elden Ring's Tarnished Edition is exciting enough on its own, but it's also our last chance to properly experience the game's launch day hype"
+    },
+    {
+      "title": "14 年、DayZ のクリエイターはまだサバイバルゲームの最大の問題に対する解決策を探しています: 「私はそれを解決することなく死ぬつもりだと思っています」",
+      "summary": "「正直、私はそれで大丈夫です」",
+      "url": "https://www.pcgamer.com/gaming-industry/14-years-on-the-creator-of-dayz-is-still-searching-for-a-solution-to-survival-gamings-biggest-problem-i-think-i-am-going-to-die-without-having-solved-it/",
+      "image": "https://cdn.mos.cms.futurecdn.net/qHZMBU8irGDoKA3ndgJ4iG-1280-80.jpg",
+      "published": "2026-08-30T16:46:19+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "14 years on, the creator of DayZ is still searching for a solution to survival gaming's biggest problem: 'I think I am going to die without having solved it'"
+    },
+    {
+      "title": "連絡は? いいえ、間違っている子供です。WiiとPS3は、アイコン的な日本のゲームショーによると、今「レトロ」です",
+      "summary": "80%近くの視聴者の同意:Wii Sportsは2026年に2年前に2年間だったよりも、祖父のゲームでさえあります。",
+      "url": "https://www.pcgamer.com/games/am-i-out-of-touch-no-its-the-children-who-are-wrong-the-wii-and-ps3-are-retro-now-according-to-iconic-japanese-gaming-show/",
+      "image": "https://cdn.mos.cms.futurecdn.net/PSLmzArevU2gpSSnXk4dMh-1280-80.jpg",
+      "published": "2026-08-30T16:44:23+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Am I out of touch? No, it's the children who are wrong: The Wii and PS3 are 'retro' now, according to iconic Japanese gaming show"
+    },
+    {
+      "title": "非常にカスタマイズ可能なコルセアフレーム4000Xは、それは私の夢のPCのケースであることを約束しましたが、私は完全に確信していません",
+      "summary": "ぜひ、ピックアップするパーツが沢山ありますが、一緒にやってみませんか?",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/the-highly-customisable-corsair-frame-4000x-promised-it-would-be-my-dream-pc-case-but-im-not-completely-convinced/",
+      "image": "https://cdn.mos.cms.futurecdn.net/SC4pw2tkZUti4rdtvHQ9mT-1280-80.jpg",
+      "published": "2026-08-30T15:00:00+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "The highly customisable Corsair Frame 4000X promised it would be my dream PC case, but I'm not completely convinced"
+    },
+    {
+      "title": "この新発表のFPSは、メディバル・ヨーロッパで最も奇妙なアーティストの世界を通してあなたを爆破させ、本当にそれが地獄から500歳のバットソングを含むことを願っています",
+      "summary": "Hieronymusは、地球のデライトの庭のようなアートワークにステップアップするようにあなたを招待します。",
+      "url": "https://www.pcgamer.com/games/fps/this-newly-announced-fps-will-let-you-blast-through-the-worlds-of-medieval-europes-weirdest-artist-and-i-really-hope-it-includes-the-500-year-old-butt-song-from-hell/",
+      "image": "https://cdn.mos.cms.futurecdn.net/wxQgc5fPJdJ7BhMNP78gPb-1280-80.jpg",
+      "published": "2026-08-30T13:32:48+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "This newly-announced FPS will let you blast through the worlds of Medieval Europe's weirdest artist, and I really hope it includes the 500-year-old butt song from hell"
+    },
+    {
+      "title": "バルブデータの巨大なキャッシュは、ポータル2の楕円ベータビルドとハーフライフ2の潜在的な武器を含むように見える、オンラインに報告されています:エピソード3",
+      "summary": "リークは、2003年から2013年にかけて日付のファイルを含む。",
+      "url": "https://www.pcgamer.com/games/fps/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/",
+      "image": "https://cdn.mos.cms.futurecdn.net/VrZsFJMgUJrMXFZLYZmGCQ-1280-80.jpg",
+      "published": "2026-08-30T11:41:11+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "A massive cache of Valve data has reportedly leaked online, appearing to include Portal 2's elusive beta build and a potential weapon from Half-Life 2: Episode 3"
+    },
+    {
+      "title": "Activisionは、デューティチートメーカーの不当なコールを中止し、主張する機能を提供します。",
+      "summary": "出版社は、これまで375件のリセラー業務を中断していると述べています。",
+      "url": "https://www.pcgamer.com/games/call-of-duty/activision-serves-cease-and-desist-to-infamous-call-of-duty-cheat-maker-and-films-the-whole-thing-we-will-find-you/",
+      "image": "https://cdn.mos.cms.futurecdn.net/cVjMH6DYTqWjxyLVZXJrj6-1280-80.jpg",
+      "published": "2026-08-30T10:05:20+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Activision serves cease and desist to infamous Call of Duty cheat maker—and films the whole thing: 'We will find you'"
+    },
+    {
+      "title": "日曜日の紙",
+      "summary": "日曜日は休息のためですから、こちらを読んでみると5:30に両親の法律をガトウィック空港に運転してもらいました。 そのため、私はおそらく休息、または、確かに日曜日の最高の権限ではありません。 それでも、ゲーム関連の記事をいくつか集めて、あなたの記事を埋めます。 もっと読む",
+      "url": "https://www.rockpapershotgun.com/the-sunday-papers-825",
+      "image": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-08-30T09:00:00+00:00",
       "source": "Rock Paper Shotgun",
       "category": "PC GAMING",
-      "title_original": "The Long Dark sequel Blackfrost hasn't been cancelled, but developer Hinterland are shifting a bit more focus onto the original's survival mode"
-    },
-    {
-      "title": "Elden Ringプレーヤーは、新しいTarnished Edition DLCのギアをテストに入れる作業で困難です",
-      "summary": "一部の悪い上司は「マタドール治療」を受けています。",
-      "url": "https://www.pcgamer.com/games/rpg/elden-ring-players-are-hard-at-work-putting-the-new-tarnished-edition-dlcs-new-gear-to-the-test/",
-      "image": "https://cdn.mos.cms.futurecdn.net/FL6XTFLKhXvQLrVMjtzqvE-1280-80.jpg",
-      "published": "2026-08-29T20:17:04+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "Elden Ring players are hard at work putting the new Tarnished Edition DLC's gear to the test"
-    },
-    {
-      "title": "モータルシェル2は、余分なビーコン、有用な新しいアイテムを追加し、実際に作業をスケーリングするriposte損傷を作るために、その最初の主要なアップデートを取得します",
-      "summary": "モータルシェル2の発売から1週間以上、ジェレミーが大好きなゲームです。 しかし、開発者の仕事は、インターネットのアドベントと'n'のパッチで、これらの日は行いません。 バランスの取れたパッチは発売日に到着しましたが、Soulslikeは今では最初のフルアップデートを受けました。 もっと読む",
-      "url": "https://www.rockpapershotgun.com/mortal-shell-2-gets-its-first-major-update-adding-in-extra-beacons-useful-new-items-and-making-riposte-damage-scaling-actually-work",
-      "image": "https://assetsio.gnwcdn.com/mortal-shell-2-first-big-update.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-08-29T19:46:26+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING",
-      "title_original": "Mortal Shell 2 gets its first major update, adding in extra beacons, useful new items, and making riposte damage scaling actually work"
-    },
-    {
-      "title": "バルブは、それが準備ができているとき、「またはピザのトンを注文する」、それを通知する次の大きなアップデートのために空腹をデッドロック選手を保証します",
-      "summary": "吉は9月末までに大アップデートを予定していたと述べた。",
-      "url": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
-      "image": "https://cdn.mos.cms.futurecdn.net/8gNvT8vktDoV3otC6wkXqR-1280-80.jpg",
-      "published": "2026-08-29T18:44:53+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready"
-    },
-    {
-      "title": "HoYoのco-opモンスターのslayer Nodusfall上のすべての重要な詳細",
-      "summary": "パイモンは決してできませんでした。",
-      "url": "https://www.pcgamer.com/games/action/nodusfall-guide/",
-      "image": "https://cdn.mos.cms.futurecdn.net/fKurLMGH35n8tb3n5jYwdF-1280-80.jpg",
-      "published": "2026-08-29T18:00:00+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "All the key details on HoYo's co-op monster slayer Nodusfall"
-    },
-    {
-      "title": "ロングダークは、スタジオが続編から離れるデベロッパーをシフトして「不確実」業界を生き延ばすために、DLCを再び取得します。",
-      "summary": "ブラックフロストの早期アクセスリリースは、今年以降は作りません。",
-      "url": "https://www.pcgamer.com/games/survival-crafting/the-long-dark-will-get-new-dlc-again-as-studio-shifts-devs-away-from-the-sequel-to-survive-an-uncertain-industry-we-have-to-adapt-to-this/",
-      "image": "https://cdn.mos.cms.futurecdn.net/pRX5W9nK2H89ysD4BzyK8L-1280-80.jpg",
-      "published": "2026-08-29T17:35:45+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "The Long Dark will get new DLC again as studio shifts devs away from the sequel to survive an 'uncertain' industry: 'We have to adapt to this'"
-    },
-    {
-      "title": "スターシチズンスピンオフスクワドロン42はまだ再び遅れています, それはPCに来ていない場合でも、GTAのために行くみんなを引用 6,",
-      "summary": "スターシチズンのあらゆる側面が本物であると信じない私に大きな部分があります。 それは私が私の注意のほとんどをすべて与えたゲームは決してありません, 物事は、私は非常に説明できない方法でピラミッドスキームエネルギーをオフ与えます. 信じられないほど多くの約束の開発者であるCloud Imperium Games でやるべきことは、彼らが言った方法で常に果敢に来",
-      "url": "https://www.rockpapershotgun.com/star-citizen-spinoff-squadron-42-has-been-delayed-yet-again-citing-everyone-going-gaga-for-gta-6-even-if-it-isnt-coming-to-pc-yet",
-      "image": "https://assetsio.gnwcdn.com/squadron-42-gillian-anderson.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-08-29T17:31:19+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING",
-      "title_original": "Star Citizen spinoff Squadron 42 has been delayed yet again, citing everyone going gaga for GTA 6, even if it isn't coming to PC yet"
-    },
-    {
-      "title": "スチームによって台無しにされた現代のゲーマーは、メガパックの喜びを理解しません",
-      "summary": "予算のPCゲームの初期の要求。",
-      "url": "https://www.pcgamer.com/games/modern-gamers-spoiled-by-steam-will-never-understand-the-joy-of-a-megapak/",
-      "image": "https://cdn.mos.cms.futurecdn.net/8TSCmA4u3KFnnj8g8qE2rF-1280-80.jpg",
-      "published": "2026-08-29T17:00:00+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "Modern gamers spoiled by Steam will never understand the joy of a MegaPak"
-    },
-    {
-      "title": "「仕事が多い」:ペルソナ4リバイバルプロデューサーは、チームが考えていたとしても、ヨケロマンスオプションの計画がないと述べています",
-      "summary": "今までにないうちに、ペルソナ4のオリジナルリリースのカットボイスラインが一度に示したところ、主人公の正なパーティーメンバーの読売が楽しかった。 私たちが終わったのは、その精神的な過去を本当に動かさない大抵の非常に異方性的性格だったのではなく、今後のパーソナル4リバイバルは明らかに少しヨシケを変えていきます。 人はやっていなくても、明らかに、そのロマンスを逆に",
-      "url": "https://www.rockpapershotgun.com/that-is-a-lot-of-work-persona-4-revival-producer-says-theres-no-plans-for-a-yosuke-romance-option-even-if-the-team-did-think-about-it",
-      "image": "https://assetsio.gnwcdn.com/persona-4-yosuke-romance.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-08-29T16:11:35+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING",
-      "title_original": "\"That is a lot of work\": Persona 4 Revival producer says there's no plans for a Yosuke romance option, even if the team did think about it"
-    },
-    {
-      "title": "MMOが再び時間を無駄にしたい",
-      "summary": "スター・ウォーズ・ガラクシーズ・プライベート・サーバーではほとんど達成していないので、他の方法も気にしない。",
-      "url": "https://www.pcgamer.com/games/mmo/i-want-mmos-to-waste-our-time-again/",
-      "image": "https://cdn.mos.cms.futurecdn.net/BaWfvhqQhhhntZGdzr8Ya3-1280-80.jpg",
-      "published": "2026-08-29T16:00:00+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "I want MMOs to waste our time again"
-    },
-    {
-      "title": "戦総戦の1時間だけプレーした:ワルハンマー40,000と、今年のハイライトだった",
-      "summary": "夢を生きる。",
-      "url": "https://www.pcgamer.com/games/strategy/i-played-just-one-hour-of-total-war-warhammer-40-000-and-it-was-the-highlight-of-my-year/",
-      "image": "https://cdn.mos.cms.futurecdn.net/Lz6YgN9T4pkvCHH4RKZzzN-1280-80.png",
-      "published": "2026-08-29T13:34:03+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "I played just an hour of Total War: Warhammer 40,000 and it was the highlight of my year"
-    },
-    {
-      "title": "ロックスターは、グランド・セフト・オート6で4つの主人公を持つと見なしましたが、スタジオは「各キャラクターでプレイヤーの時間の希釈について」",
-      "summary": "「3つの文字をフォローするにはどうすればよいですか? 今は4文字ですか?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-considered-having-four-protagonists-in-grand-theft-auto-6-but-the-studio-worried-about-diluting-the-amount-of-player-time-with-each-character/",
-      "image": "https://cdn.mos.cms.futurecdn.net/8ncBqozL6HDJKAVUdaPae9-1280-80.jpg",
-      "published": "2026-08-29T13:13:58+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character"
+      "title_original": "The Sunday Papers"
     }
   ]
 }
