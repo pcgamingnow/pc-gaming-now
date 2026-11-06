@@ -1,125 +1,125 @@
 {
-  "updated_at": "2026-11-05T01:18:27.559463+00:00",
+  "updated_at": "2026-11-06T01:23:13.118678+00:00",
   "articles": [
     {
-      "title": "エルダー・スクロールズ6は2年以上前から報告され、一部のファンはうまくいかない",
-      "summary": "Bethesdaが以前の起動でヒントを出す理論は既にサーフィンしていて、そのうちのいくつかはかなり良いです。",
-      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
-      "image": "https://cdn.mos.cms.futurecdn.net/2tZ8acjKKVc9o26nuhBAEi-1920-80.jpg",
-      "published": "2026-11-05T00:18:02+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well"
-    },
-    {
-      "title": "『勝利の女神：NIKKE』PCランチャー改ざん問題、「ゲーム外のアカウントや資産」にまで被害が及ぶおそれ。公式が対処方法を案内、金銭的被害の相談にも対応へ",
-      "summary": "『勝利の女神：NIKKE』運営チームは11月5日、同作のPCランチャーに関するセキュリティインシデントに関して続報を報告。セキュリティ確認および必要な措置をとるように案内している。",
-      "url": "https://automaton-media.com/articles/newsjp/20261105-477538/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477538-header.jpg",
-      "published": "2026-11-05T00:01:50+00:00",
+      "title": "『ニーア オートマタ』Steam版、突然「366GB」の超巨大ゲームに。久々のアプデ後に、謎のストレージ大食い現象",
+      "summary": "『NieR:Automata（ニーア オートマタ）』のSteam版にて、本作の必要ストレージ容量が366.56GBになるという奇妙な不具合が発生している。",
+      "url": "https://automaton-media.com/articles/newsjp/20261106-477820/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477820-header.jpg",
+      "published": "2026-11-05T23:40:30+00:00",
       "source": "AUTOMATON",
       "category": "JAPAN",
-      "title_original": "『勝利の女神：NIKKE』PCランチャー改ざん問題、「ゲーム外のアカウントや資産」にまで被害が及ぶおそれ。公式が対処方法を案内、金銭的被害の相談にも対応へ"
+      "title_original": "『ニーア オートマタ』Steam版、突然「366GB」の超巨大ゲームに。久々のアプデ後に、謎のストレージ大食い現象"
     },
     {
-      "title": "GTA 6 11月: 代わりにPCで再生できるものは次のとおりです。",
-      "summary": "ウォークラフトの世界:フォーエバー、ウォーハンマー生存者、および新鮮な更新のバッチ。",
-      "url": "https://www.pcgamer.com/games/november-games-2026/",
-      "image": "https://cdn.mos.cms.futurecdn.net/uEeQBN2oCc55CcCkNVRYiQ-1920-80.jpg",
-      "published": "2026-11-04T23:37:01+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "No GTA 6 November: Here's what you can play on PC instead"
-    },
-    {
-      "title": "昨晩の米国中期選挙でデータセンターが最大の敗北者の一部であった",
-      "summary": "全国のVotersは、データセンターの拡張率を抑制するほぼすべてのローカル投票測定を選択しました。",
-      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections/",
-      "image": "https://cdn.mos.cms.futurecdn.net/kt57iQemDCCMVmXLVecZXf-1920-80.jpg",
-      "published": "2026-11-04T21:10:10+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "Data centers were some of the biggest losers in last night's US midterm elections"
-    },
-    {
-      "title": "フランスのゲーム union は 'sabotaging' ブレードの Microsoft を非難し、Arkane を正当化するためにフォールアウトを使用して",
-      "summary": "STJVユニオンは、遅延や追加費用で発生したArkaneでMicrosoftの採用フリーズを課したと述べ、その後、シャットダウンの理由として引用した。",
-      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/",
-      "image": "https://cdn.mos.cms.futurecdn.net/9T4FzWUTqHonQG2a65VZak-1920-80.jpg",
-      "published": "2026-11-04T20:51:28+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane"
-    },
-    {
-      "title": "『Escape from Tarkov』生みの親による新作『Fragmentary Order』、長編ゲームプレイ映像ついにお披露目。“宇宙タルコフ”みっちり14分間",
-      "summary": "Rant Gamingは11月5日、『Fragmentary Order』の14分間にわたるゲームプレイ映像を公開した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261105-477526/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477526-header.jpg",
-      "published": "2026-11-04T19:49:11+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "『Escape from Tarkov』生みの親による新作『Fragmentary Order』、長編ゲームプレイ映像ついにお披露目。“宇宙タルコフ”みっちり14分間"
-    },
-    {
-      "title": "元ハロー作曲マーティ・オドンネルが選挙を失い、「戦いは終わっている」と彼の対戦相手によって絶対に結合します",
-      "summary": "スーシー・リーはこの瞬間を待っています。",
-      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished/",
-      "image": "https://cdn.mos.cms.futurecdn.net/rbvNJm56oM36V2FFnnUWfC-1920-80.jpg",
-      "published": "2026-11-04T19:21:48+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'"
-    },
-    {
-      "title": "PS5『ゴッド・オブ・ウォー ラウフェイ』発売延期、来年5月20日にリリースへ。約3か月延ばして作りこむ",
-      "summary": "Santa Monica Studioは11月5日、『ゴッド・オブ・ウォー ラウフェイ』の発売日を2027年5月20日に延期すると発表した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261105-477518/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261105-477518-header.jpg",
-      "published": "2026-11-04T18:33:36+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "PS5『ゴッド・オブ・ウォー ラウフェイ』発売延期、来年5月20日にリリースへ。約3か月延ばして作りこむ"
-    },
-    {
-      "title": "\"Arkane は収益性があり、\" マーベルの ブレイド 開発者 の fiery new ステートメントで、\"Microsoft に十分な収益性がない\"",
-      "summary": "DishonoredデベロッパArkane LyonのUnionisedワーカーは、スタジオの潜在的な閉鎖の上にMicrosoftとの交渉の進行に関する新しい声明を発表しました。 一方、Xbox 管理で、Microsoft の認知市場価値に比例した冗長なオファーを作るため、Arkane を閉じるための理由として引用された非常に経済条件を作成する親会社を非難し",
-      "url": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
-      "image": "https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-11-04T18:02:20+00:00",
+      "title": "非常にソウル・イーターのタイム・マニピュレーション・企業でジェット・セット・ラジオ・アクション・ローグライト・クロノ・パンクを満たします",
+      "summary": "ゲームの特定の時代のバイブのために明らかに起こっている私のお気に入りの種類のゲームは、それが言っていた時代から他のゲームになることをしようとしているように見えていない1です、他の人が私に言ったならば、それはPS2だったか、私はあなたを信じているについて忘れてドリームキャストゲームみんなに言いました。 クロノ・パンクは、魂のイーター、ジェット・セット・ラジオ、",
+      "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+      "image": "https://assetsio.gnwcdn.com/chrono-punk.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-11-05T22:55:20+00:00",
       "source": "Rock Paper Shotgun",
       "category": "PC GAMING",
-      "title_original": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\""
+      "title_original": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK"
     },
     {
-      "title": "私はGTA 5を取り戻し、十億の猛烈で追い込まれています, 武装したクーガー",
-      "summary": "これを見逃しました。",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars/",
-      "image": "https://cdn.mos.cms.futurecdn.net/zbjF32yTd7MrmU9rh8qEza-1920-80.jpg",
-      "published": "2026-11-04T18:00:00+00:00",
+      "title": "Xbox は「より速い PC のランチャー」の腕のレース、そのアプリは今余りに速く荷を積む",
+      "summary": "XboxのPCアプリの最新バージョンがXboxのInsidersに最大60%速く読み込み、他の素晴らしい改善も得られます。",
+      "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too/",
+      "image": "https://cdn.mos.cms.futurecdn.net/sJW4PwmHa8qeKCbWo57MJ8-1920-80.png",
+      "published": "2026-11-05T22:32:22+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "I am back modding GTA 5 and being chased by a billion furious, armed cougars"
+      "title_original": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too"
     },
     {
-      "title": "黙示録とスカイリムのギャップは、殺人の浮き沈みの島に関する書籍を前方見ることによって橋渡しされたので、なぜエルダースクロール6は2011年以来、まだ立っていた世界を再監視する",
-      "summary": "長いシリーズのメインラインエントリ間の待ち時間は新しい現象ではありません。, おそらくビッグゲームズのバルーン開発サイクルのために、もう少し一般的な今日. BioWareのBaldur's Gate 2がLarianのBaldur's Gate 3をフォローアップするのに約23年かかりましたが、スピンオフの割合と2の間にコショウリマスターがありました。 エル",
-      "url": "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011",
-      "image": "https://assetsio.gnwcdn.com/oblivion-remastered-imperial-city-01-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-11-04T17:30:00+00:00",
+      "title": "ウォーレンスペクターはBioWareの閉鎖についてさらに怒っているので、彼はEA execsの大規模な給料を報います: 「この世界で残っている任意の説明責任はありますか?」",
+      "summary": "BioWareの欠損に対する彼の非特徴的なスパイシーなコメントの2週間後、スペクターの怒りは明らかに取っていません。",
+      "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world/",
+      "image": "https://cdn.mos.cms.futurecdn.net/vJdgGXYMyYBtMM5Fq7wSDG-1920-80.jpg",
+      "published": "2026-11-05T22:20:18+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'"
+    },
+    {
+      "title": "BioWareは消えていますが、少なくとも、来年ドキュメンタリーで最終日を見ることができるでしょう。そして、本当に悲しいのを待っています",
+      "summary": "過去数年間に1週間に1回限りのロッククォートを繰り返すような感じです。 EAが象徴的な質量効果とドラゴンエイジ開発者BioWareをシャットダウンすることを決めたとき、それは特に去月を襲った感じです。 明らかに質量効果5のキャンセルで結果しました。, 漏れたトレーラーと一部, 今元, 開発はかなり興味深い音をしました。 . しかし、ねえ! 少なくとも来年来年",
+      "url": "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually",
+      "image": "https://assetsio.gnwcdn.com/bioware-documentary.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-11-05T21:32:00+00:00",
       "source": "Rock Paper Shotgun",
       "category": "PC GAMING",
-      "title_original": "Oblivion and Skyrim’s gap was bridged by forward-looking books about a murderous floating island, so why is The Elder Scrolls 6 stuck reanimating a world that’s stood still since 2011"
+      "title_original": "BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually"
     },
     {
-      "title": "ニュー・ブラッド・CEOは、「20年」で販売するよりも、ブーマー・シューター・スタジオをシャットダウンしました。 さよなら、シャットダウン」",
-      "summary": "「私は幸せに終えたい」 わたしたちは、私たちの言葉で外出したい。",
-      "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down/",
-      "image": "https://cdn.mos.cms.futurecdn.net/LWJqcFFvfrZySZj5CgRwGL-1920-80.jpg",
-      "published": "2026-11-04T17:28:16+00:00",
+      "title": "サム・アルトマンはDRAMコメントが「文脈から取り出された」と疑わしい",
+      "summary": "しかし、ハイムは迷惑だったが、DRAMを安くしませんでした。",
+      "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context/",
+      "image": "https://cdn.mos.cms.futurecdn.net/NZnFNXaxKppYC46BxGjkDG-1920-80.jpg",
+      "published": "2026-11-05T20:34:00+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'"
+      "title_original": "Sam Altman is annoyed his DRAM comment was 'taken out of context'"
+    },
+    {
+      "title": "Nvidia、Micron、その他のAI株式は、選挙後にダイビングを取る",
+      "summary": "まだ大声で言えば聞こえませんが、AI市場の修正は進行中です。",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections/",
+      "image": "https://cdn.mos.cms.futurecdn.net/8N9tGF8SW8x4iuVV9hNLRR-1920-80.jpg",
+      "published": "2026-11-05T19:32:47+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Nvidia, Micron, and other AI stocks take a dive after elections"
+    },
+    {
+      "title": "Ablahshikarは、戦艦から臓器をリッピングし、早期アクセスで出てきた奇妙な商品から出てきたことについて、Maximalist、Salvage-survival CRPGです。",
+      "summary": "時々、あなたはゲームに遭遇し、即座にそれが病気のためであることを知っています。 今日、あなたは敵軍艦の器官をリッピングする「ターンベースのサルベージ生存型CRPGアドリフトオンキャンドル海」であるアブラフシカールは、初期アクセスで今出ている「運命のキメラにあなたの船を再建する」。 正直、私はちょうどそれをCRPGと呼ぶことができ、まだ病気のゲームとしてそれを",
+      "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
+      "image": "https://assetsio.gnwcdn.com/ablahshikar.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-11-05T19:00:00+00:00",
+      "source": "Rock Paper Shotgun",
+      "category": "PC GAMING",
+      "title_original": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access"
+    },
+    {
+      "title": "EAのSteamで古典的なゲームのトラックロードを解放し、そのうちの7はremastersです",
+      "summary": "再マスターもGOGに来ています(すでに再リリースされたオリジナルを持っていた)。",
+      "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters/",
+      "image": "https://cdn.mos.cms.futurecdn.net/CXVER5uoyDmDA9NqhfxMtZ-1920-80.jpg",
+      "published": "2026-11-05T18:30:00+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters"
+    },
+    {
+      "title": "16年の長い開発期間の後、Farawayは、他の星のエネルギーを呼び出すためのシューティングスターアーケードゲームです。",
+      "summary": "主 almighty, ビデオ ゲーム 取る a しばらく へ 作る, 'ey? 特に一人一人の人が自分で働いているのであれば、 そのようなことは、今日、PS3インディーの初期の思い出を思い出させるアーケードゲーム「生き残るために星を生成するシューティングスターについて」と、すべてのcultクラスのモバイルゲームエリス、Steph Thirionのクリエイタ",
+      "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
+      "image": "https://assetsio.gnwcdn.com/faraway.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-11-05T18:30:00+00:00",
+      "source": "Rock Paper Shotgun",
+      "category": "PC GAMING",
+      "title_original": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now"
+    },
+    {
+      "title": "GTA 5にパーカーを追加し、また、誤ってインストールしたのを忘れた20のmodsのようにオンにしました",
+      "summary": "おまかせ。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed/",
+      "image": "https://cdn.mos.cms.futurecdn.net/rFg5yudLK69ZhosAcmJA2j-1920-80.jpg",
+      "published": "2026-11-05T18:00:00+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "I have added parkour to GTA 5, and also accidentally turned on like 20 mods I forgot I'd installed"
+    },
+    {
+      "title": "毛盛のモンゴルの広大なアップデートのレジェンドは、毛皮のコートと丈夫な馬よりも多くを必要とする霜降りの山々や腐敗の砂漠をもたらします",
+      "summary": "別の日、周りの恐ろしい別の機会! 昨日、キリモリのレジェンドの新たなアップデートとして、ここはリテラルだ。 モンゴルの景気を呼んだり、地図を全体的に開き、ゲームへの他の付加の広がりを作る。 もっと読む",
+      "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
+      "image": "https://assetsio.gnwcdn.com/the-legend-of-khiimori-mongolian-expanse.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-11-05T18:00:00+00:00",
+      "source": "Rock Paper Shotgun",
+      "category": "PC GAMING",
+      "title_original": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse"
     }
   ]
 }
