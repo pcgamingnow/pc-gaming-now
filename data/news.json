@@ -1,125 +1,125 @@
 {
-  "updated_at": "2026-11-13T01:41:47.287156+00:00",
+  "updated_at": "2026-11-14T01:17:19.902572+00:00",
   "articles": [
     {
-      "title": "マルチ対応・日本ガソスタ夜勤ホラー『SANKAN』発表。頭に響く“客を殺せ”の声に抗うか従うか、死体を埋めたらまた接客",
-      "summary": "YTKA GAMESは11月13日、Dany Rexton氏が手がけるホラーゲーム『SANKAN』を発表した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479037/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479037-header.jpg",
-      "published": "2026-11-13T01:41:00+00:00",
+      "title": "「ガルパン」の麻雀ゲーム『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』発表。戦いの舞台はなぜか麻雀、“味方持ち点平均化”“有効牌率アップ”など「特殊技」を駆使してタッグ打ち",
+      "summary": "MAGES.は11月14日、『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』を発表した。本作は人気アニメ「ガールズ＆パンツァー」の世界観をもとにしたタッグ打ち麻雀ゲームだ。",
+      "url": "https://automaton-media.com/articles/newsjp/20261114-479244/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261114-479244-header.jpeg",
+      "published": "2026-11-14T00:30:11+00:00",
       "source": "AUTOMATON",
       "category": "JAPAN",
-      "title_original": "マルチ対応・日本ガソスタ夜勤ホラー『SANKAN』発表。頭に響く“客を殺せ”の声に抗うか従うか、死体を埋めたらまた接客"
+      "title_original": "「ガルパン」の麻雀ゲーム『ガールズ＆パンツァー 白熱！麻雀タッグバトルです！』発表。戦いの舞台はなぜか麻雀、“味方持ち点平均化”“有効牌率アップ”など「特殊技」を駆使してタッグ打ち"
     },
     {
-      "title": "Wolfenstein 3 は MachineGames で制作されています。",
-      "summary": "Blazkowicz は backscowicz です。",
-      "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
-      "image": "https://cdn.mos.cms.futurecdn.net/kLcpoTPbNywZi79u2Nox5C-1920-80.jpg",
-      "published": "2026-11-13T01:35:32+00:00",
+      "title": "はい、GTA 6週間の間にSteamでいくつかの勇敢なゲームはまだ起動しています",
+      "summary": "Roundabouts、マーチャント共和国、ダークファンタシーなローグライゼーションはリリース計画をbudgingしません。",
+      "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+      "image": "https://cdn.mos.cms.futurecdn.net/8TjNUwvCTei477eGjE9ymL-1920-80.jpg",
+      "published": "2026-11-13T22:28:10+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Wolfenstein 3 is in production at MachineGames"
+      "title_original": "Yes, some brave games are still launching on Steam during GTA 6 week"
     },
     {
-      "title": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」、開発中に怖くなりすぎたので“自主規制”されていた。それでもだいぶ怖い",
-      "summary": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」は、開発中にはもっと怖く作られていたようだ。",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479030/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479030-header.jpg",
-      "published": "2026-11-13T01:14:20+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "『ゼルダの伝説 時のオカリナ』リメイク版の「リーデット」、開発中に怖くなりすぎたので“自主規制”されていた。それでもだいぶ怖い"
+      "title": "ゲームのAIが気に入りませんか? クリムゾン砂漠スタジオパール Abyss ain't ケア: 開発パイプライン全体を通して、AI の使用を拡大する",
+      "summary": "今年初めにクリムゾン砂漠でAIが生み出すアートの存在は、Abyssに謝罪したが、それは遅くはない。",
+      "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+      "image": "https://cdn.mos.cms.futurecdn.net/nLRUSe282Y7dBidATad2pm-1920-80.jpg",
+      "published": "2026-11-13T22:17:06+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'"
     },
     {
-      "title": "AMDのRadeonグラボドライバーで発生していた「SSD無限酷使」不具合、修正バージョンがさっそく配信。RX 7000シリーズ以上の方は特に要チェック",
-      "summary": "一部の環境で発生していた不必要なSSD書き込みがおこなわれる不具合が修正されている。",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479025/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479025-header.jpg",
-      "published": "2026-11-13T00:53:25+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "AMDのRadeonグラボドライバーで発生していた「SSD無限酷使」不具合、修正バージョンがさっそく配信。RX 7000シリーズ以上の方は特に要チェック"
+      "title": "「ストーカーとタルコフのエイリアン・ベイビー」と呼ばれる生存ゲームは、打ち上げ後1年以内に閉鎖されます",
+      "summary": "Pionerは2025年後半の初期アクセスに入ったとき、正しい方向に向かったようですが、数ヶ月後にすべて誤っていました。",
+      "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+      "image": "https://cdn.mos.cms.futurecdn.net/BBZv25a4mg7z9HrBRBStEj-1920-80.jpg",
+      "published": "2026-11-13T20:37:35+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch"
     },
     {
-      "title": "XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば30分間プレイ可能",
-      "summary": "マイクロソフトは11月13日、広告付きのクラウドゲーミングサービスを利用した「XBOX Video for Brands」を広告主向けに正式発表した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479008/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260702-452949-header.jpg",
-      "published": "2026-11-12T23:45:51+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "XBOXの「広告を見れば無料で遊べる」クラウドゲーミングサービス、正式発表。3分間広告を見れば30分間プレイ可能"
+      "title": "マイクロソフトの「ディープ」は、グローバルなサービス不足のために謝罪します, AIやハッカーは非難するものではありません",
+      "summary": "過去4年間に約30,000人のマイクロソフトの従業員が置いたことは、これを防ぐことができます。",
+      "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame/",
+      "image": "https://cdn.mos.cms.futurecdn.net/kc77wf7a29YuNrdx6Ugct9-1920-80.jpg",
+      "published": "2026-11-13T19:54:20+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame"
     },
     {
-      "title": "『Slay the Spire 2』に超大型ベータアプデ到来、待望の新キャラ「フール」実装。さらに新ゲームモードが2つも追加、サクッと遊べるor超高難度",
-      "summary": "のMega Critは11月13日、『Slay the Spire 2』ベータブランチ向けのアップデートv0.113.0を配信した。過去最大規模のアップデートなっている。",
-      "url": "https://automaton-media.com/articles/newsjp/20261113-479009/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261113-479009-header.jpg",
-      "published": "2026-11-12T23:40:26+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "『Slay the Spire 2』に超大型ベータアプデ到来、待望の新キャラ「フール」実装。さらに新ゲームモードが2つも追加、サクッと遊べるor超高難度"
+      "title": "新しいグランドセフトオート6トレーラーは、グランドセフトオート6内にあるテレビ番組用です",
+      "summary": "MaccaとFriendsは11月19日にウェゼルテレビに来ています。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
+      "image": "https://cdn.mos.cms.futurecdn.net/6uAdn7tYNyji3HDiVVGeHR-1920-80.jpg",
+      "published": "2026-11-13T19:30:31+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6"
     },
     {
-      "title": "Spire 2 の \"biggest\" ベータ パッチを敷きながら、最初の新しい初期アクセスとフォロリッシュの文字、ゲームモードの2つ、スティックを揺れるよりも微調整を追加",
-      "summary": "ハーク! Spire 2 のパッチを新規作成します。 または、よく、ゲームのベータブランチを試している人ならです。 あなたがそうでなければ、メガクリットは、これはこれまでのゲームのための最大のパッチであると言うので、それは試してみる価値があるかもしれません、「彼らがメインブランチに到達する前に多くのテストを必要とするコンテンツのいくつかの本当にインパクトのあ",
-      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-biggest-beta-patch-yet-adds-its-first-new-early-access-and-foolish-character-two-game-modes-and-more-tweaks-than-you-can-shake-a-stick-at",
-      "image": "https://assetsio.gnwcdn.com/slay-the-spire-2-the-fool.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-11-12T22:53:40+00:00",
+      "title": "ビデオゲーム猫を知っていますか? それからそれらの名前17",
+      "summary": "猫、魔法の猫、科学的な猫、そして彼らが人々だと思う猫を話す。",
+      "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/",
+      "image": "https://cdn.mos.cms.futurecdn.net/MYHuggpoMbx7C7cGki9bwh-1920-80.jpg",
+      "published": "2026-11-13T18:43:11+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Think you know videogame cats? Then name 17 of them"
+    },
+    {
+      "title": "GTA 5 で主人全員が止まらない",
+      "summary": "自分を見ているんですか?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5/",
+      "image": "https://cdn.mos.cms.futurecdn.net/95kFyAv4vSZo6cqGwp4mNK-1920-80.jpg",
+      "published": "2026-11-13T18:00:00+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "I cannot stop everyone staring at me in GTA 5"
+    },
+    {
+      "title": "サイバーパンク取引のシム おそらくストレンは、新しいスタートシナリオで3つの大きなアップデートを得ています - オルガン取引、ジャン帝国と細かいダイニング",
+      "summary": "Mucky と 評判のキオスク ゲーム おそらく Stolen – Cyberpunk Shopkeeper Sim は、次の数ヶ月にわたって 3 つの大きな更新を得る、追加の出発シナリオを追加します。, 既存の富の商品の上に構築します。, 材料, 職業や技術. これらは、ペドリングの人間の肉から、最高のサイバー・フレピチーノを走らせるために、タンハウザー・",
+      "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-getting-three-big-updates-with-new-starting-scenarios-organ-trading-junk-empires-and-fine-dining",
+      "image": "https://assetsio.gnwcdn.com/probably-stolen-grapes.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "published": "2026-11-13T17:30:00+00:00",
       "source": "Rock Paper Shotgun",
       "category": "PC GAMING",
-      "title_original": "Slay the Spire 2's \"biggest\" beta patch yet adds its first new early access and foolish character, two game modes, and more tweaks than you can shake a stick at"
+      "title_original": "Cyberpunk trading sim Probably Stolen is getting three big updates with new starting scenarios - organ trading, junk empires and fine dining"
     },
     {
-      "title": "新しい4分のFableゲームプレイトレーラーは、Fableのようにあまり見ていないゲームを示しています",
-      "summary": "多分それは私です。. それは私ですか?",
-      "url": "https://www.pcgamer.com/games/rpg/new-4-minute-fable-gameplay-trailer-shows-a-game-that-doesnt-look-much-like-fable/",
-      "image": "https://cdn.mos.cms.futurecdn.net/vQV33tgAikCCCHGpnBucEo-1920-80.jpg",
-      "published": "2026-11-12T22:43:21+00:00",
+      "title": "8BitDo Ultimate 3Eワイヤレスコントローラーのレビュー",
+      "summary": "Xboxワイヤレス接続とモジュラー性は、その価格に本当に価値がありますか?",
+      "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review/",
+      "image": "https://cdn.mos.cms.futurecdn.net/HWw3vf4iqkz9VpWYQt7sA6-1920-80.jpg",
+      "published": "2026-11-13T17:20:13+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable"
+      "title_original": "8BitDo Ultimate 3E wireless controller review"
     },
     {
-      "title": "PalworldデベロッパPocketpairは、GTA 6が起動したときに「バイスシティで5日間の出張」のために従業員にタイムオフを与えます",
-      "summary": "お問い合わせ",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
-      "image": "https://cdn.mos.cms.futurecdn.net/qssUN2VdpiBrvmcfvqWGdK-1920-80.jpg",
-      "published": "2026-11-12T22:08:48+00:00",
+      "title": "Overwatchのクリエイティブディレクターは、シーズン6の今後のヒーローの名前を誤って漏らし、彼が「テストしたヒーローの最高得点を忘れた」と明らかにしました。",
+      "summary": "確かに物事をクリアする。",
+      "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested/",
+      "image": "https://cdn.mos.cms.futurecdn.net/3Gjr7LFEeaPTb7rKe6a2xh-1920-80.png",
+      "published": "2026-11-13T17:15:16+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'"
+      "title_original": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'"
     },
     {
-      "title": "MycoRelic の魂のような世界を渡る魔法の真菌の aplenty およびgalavant であなたのロボット ボディを、今1.0 で覆って下さい",
-      "summary": "私は、最も興味深いことは、その戦いであると考えることとは別に、ダークソウルズから取られた、あまりにも多くの人が、その主なテイクアウトが、それがすべてのので、すべての花粉だということです。 私は日光や虹を必要としていると言っていません, 私は、リモートでも、FromSoftwareの半端的な仕事とは異なるしようとしているバイブのようなものです. お問い合わせ ",
-      "url": "https://www.rockpapershotgun.com/cover-your-robot-body-in-magical-fungus-aplenty-and-galavant-across-a-mystical-soulslike-world-in-mycorelic-now-out-in-10",
-      "image": "https://assetsio.gnwcdn.com/mycorelic.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-11-12T21:31:00+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING",
-      "title_original": "Cover your robot body in magical fungus aplenty and galavant across a mystical, Soulslike world in MycoRelic, now out in 1.0"
-    },
-    {
-      "title": "Doom Studio id Softwareが新しいゲームで動作していることを確認します",
-      "summary": "しかし、次のElderスクロールゲームと同様に、より多くの共有する準備が整っている前に「しばらく時間がかかります」。",
-      "url": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
-      "image": "https://cdn.mos.cms.futurecdn.net/SV4EqmWFf4gJaw5ie5QeYJ-1920-80.jpg",
-      "published": "2026-11-12T21:10:04+00:00",
+      "title": "22年後にホットコーヒーの論争, 英国の政治家は、グランドテフトオート6は「私たちが本当に誇りに思うことができる何か」と言っています",
+      "summary": "いつの時代が変わったのか、",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
+      "image": "https://cdn.mos.cms.futurecdn.net/4JWoRjt9po5WzePh4dHCof-1920-80.jpg",
+      "published": "2026-11-13T17:12:56+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Doom studio id Software confirms it's working on a new game"
-    },
-    {
-      "title": "バービーの巻き戻し、今、あなたは、プラスチックの古典での生活の束全体と記憶車に乗るためにあなたを招待し、以前にリリースされていない1ゲーム",
-      "summary": "バービーよりも多くのゲームを持っているビデオゲームから元々ではないキャラクターはありますか? 多分! 今は数学をやりたくないのですが、せん断の数字に触れることができるのはあまり多くありません。 彼女がデジタルアドベンチャーのすべての種類を持っていた、彼女のゲームは「ガールゲーム」の世界に大きな影響を与えています。 今かもしれない複雑に性別を帯びたように、意義",
-      "url": "https://www.rockpapershotgun.com/barbie-rewind-out-now-invites-you-to-take-a-trip-down-memory-lane-with-a-whole-bunch-of-life-in-plastic-classics-and-one-game-that-was-previously-unreleased",
-      "image": "https://assetsio.gnwcdn.com/barbie-rewind_vGZZm3p.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-11-12T19:57:00+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING",
-      "title_original": "Barbie Rewind, out now, invites you to take a trip down memory lane with a whole bunch of life in plastic classics, and one game that was previously unreleased"
+      "title_original": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'"
     }
   ]
 }
