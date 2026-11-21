@@ -1,125 +1,125 @@
 {
-  "updated_at": "2026-11-20T02:01:23.030690+00:00",
+  "updated_at": "2026-11-21T01:59:13.006593+00:00",
   "articles": [
     {
-      "title": "「Steam Machine」512GB版が今なら予約なしで購入可能、ただし売り切れたら「待機リスト」なしで「在庫切れ」に。逼迫続く供給事情、今後の生産/販売価格は“未定”",
-      "summary": "Steam Machineの512GBモデルについて、現在予約せずに購入できるようになっている。なお在庫がすべて販売し終えた後は、これまでの「待機リスト」には登録されず、在庫切れへと切り替わるようだ。",
-      "url": "https://automaton-media.com/articles/newsjp/20261120-480126/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480126-header.jpg",
-      "published": "2026-11-20T01:28:09+00:00",
+      "title": "『グランド・セフト・オートVI（GTA6）』ではついに「列車を止められる」ように。ぜんぶ跳ね飛ばす“列車不敗伝説”、終わる",
+      "summary": "『GTA6』では、過去作品にて“無敵の存在”とされてきた列車が止められるようになっている。",
+      "url": "https://automaton-media.com/articles/newsjp/20261120-480222/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480222-header.jpg",
+      "published": "2026-11-21T01:34:49+00:00",
       "source": "AUTOMATON",
       "category": "JAPAN",
-      "title_original": "「Steam Machine」512GB版が今なら予約なしで購入可能、ただし売り切れたら「待機リスト」なしで「在庫切れ」に。逼迫続く供給事情、今後の生産/販売価格は“未定”"
+      "title_original": "『グランド・セフト・オートVI（GTA6）』ではついに「列車を止められる」ように。ぜんぶ跳ね飛ばす“列車不敗伝説”、終わる"
     },
     {
-      "title": "GTA + GTA 6 シングルプレイヤーは、サブスクリプションベースの馬具のような",
-      "summary": "1台の車と一部のゲーム内割引で$7.99を月払いますか?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
-      "image": "https://cdn.mos.cms.futurecdn.net/HKGxD9wNvKf9rW4v3SmVdT-1920-80.jpg",
-      "published": "2026-11-20T01:01:43+00:00",
+      "title": "GTA 6には秘密のプレイリストがあり、あなたがしなければならないのは、それらをロック解除するためにいくつかのポスターをスキャンすることです",
+      "summary": "Kodak BlackとVaultナイトクラブはそれぞれ独自のプレイリストを持っています。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+      "image": "https://cdn.mos.cms.futurecdn.net/rZZ6qHyxFodPwYQ2VrUqT9-1920-80.jpg",
+      "published": "2026-11-21T00:46:24+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor"
+      "title_original": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them"
     },
     {
-      "title": "GTA 6 は 1 人で再生可能です。ここでアクティベーションする方法",
-      "summary": "クルマがスピードメーターを持っているのはなぜかと思います。",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-      "image": "https://cdn.mos.cms.futurecdn.net/g8Enb9ZjZTV9xLHoMFH2RY-1920-80.jpg",
-      "published": "2026-11-20T01:00:12+00:00",
-      "source": "PC Gamer",
-      "category": "PC GAMING",
-      "title_original": "GTA 6 is playable in first-person, here's how to activate it"
-    },
-    {
-      "title": "“衣装破壊”弾幕STG『カラドリウス2』、来年1月28日に発売延期、Steam版は時期未定。PS5版では一部グラフィックに「調整」も",
-      "summary": "モスは11月20日、『Caladrius2/Dark Element（カラドリウス2/ダークエレメント）』の発売延期およびPS5版の一部仕様変更を発表した。Steam版の発売時期は現時点では未定だ。",
-      "url": "https://automaton-media.com/articles/newsjp/20261120-480118/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261120-480118-header.jpg",
-      "published": "2026-11-20T01:00:10+00:00",
+      "title": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題",
+      "summary": "NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。",
+      "url": "https://automaton-media.com/articles/newsjp/20261121-480255/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480255-header.jpg",
+      "published": "2026-11-21T00:23:16+00:00",
       "source": "AUTOMATON",
       "category": "JAPAN",
-      "title_original": "“衣装破壊”弾幕STG『カラドリウス2』、来年1月28日に発売延期、Steam版は時期未定。PS5版では一部グラフィックに「調整」も"
+      "title_original": "NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題"
     },
     {
-      "title": "Cyberleekは、彼らが主張しているものをクローズコンプリートGTA 6 Xboxビルドオンラインドロップします",
-      "summary": "リークされたファイルは200 GB前後のようです。",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
-      "image": "https://cdn.mos.cms.futurecdn.net/V9DvSFFdCfhszuTcqcQQ5a-1920-80.jpg",
-      "published": "2026-11-19T23:17:00+00:00",
+      "title": "Etsyが今橋を販売していたことに気付いていなかった",
+      "summary": "同社は、新しいジェネレーションAIトレーニング協定がうまくいくためにのみ使用されると述べています。 誰が信じるの?",
+      "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now/",
+      "image": "https://cdn.mos.cms.futurecdn.net/xvJ9JBcaybjfFQt9N2mg33-1920-80.jpg",
+      "published": "2026-11-21T00:00:36+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online"
+      "title_original": "I didn't realize Etsy was selling bridges now"
     },
     {
-      "title": "助け:GTA 6の交通法に従わない",
-      "summary": "何が起こっていますか?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6/",
-      "image": "https://cdn.mos.cms.futurecdn.net/q5MfnxFC8y7WrZGptZueLF-1920-80.jpg",
-      "published": "2026-11-19T22:46:37+00:00",
+      "title": "GTA 6の巨大地図にもかかわらず、飛行機で飛んで約4分かかります",
+      "summary": "誰かがそれをやっていた。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map/",
+      "image": "https://cdn.mos.cms.futurecdn.net/Lniqu8a87y9qE9LHy43r3F-1920-80.jpg",
+      "published": "2026-11-20T22:34:25+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Help: I can't stop obeying traffic laws in GTA 6"
+      "title_original": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane"
     },
     {
-      "title": "GTA 6は、私が今まで見たPS5コントローラーの最高の使用を持っています",
-      "summary": "PS5トリガーはGTAでドライブする方法を変えています。",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen/",
-      "image": "https://cdn.mos.cms.futurecdn.net/hWFrwoietRNPc2r3uRnoyX-1920-80.jpg",
-      "published": "2026-11-19T22:28:33+00:00",
+      "title": "フロリダ・ジョーカーは彼の願いを得ます:彼はグランド・テフト・オート6で「特別な声優」です",
+      "summary": "ローレンス・スルリバンがロックスターとの違いを解決したののように見えます。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6/",
+      "image": "https://cdn.mos.cms.futurecdn.net/yKEF5zpGf3RRXGcxqzk8Xd-1920-80.png",
+      "published": "2026-11-20T22:02:48+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "GTA 6 has the best use of the PS5 controller I've ever seen"
+      "title_original": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6"
     },
     {
-      "title": "クイーンズ・ドメインのコレクサトーン・コンフィニシズムについて強調しないでください。 それは最終的に隠された宝物を見つけるのに役立つツールを与えます",
-      "summary": "\"em all, 最終的に.",
-      "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures/",
-      "image": "https://cdn.mos.cms.futurecdn.net/KkzDysktKLrnxFqEULH6a8-1920-80.jpg",
-      "published": "2026-11-19T22:20:56+00:00",
+      "title": "ジェイソンとルチアの散歩をより速くするためにこのGTA 6の移動速度の設定を試してみてください",
+      "summary": "一歩を踏み出す。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster/",
+      "image": "https://cdn.mos.cms.futurecdn.net/sg9TWszsU48jQVeLU4kJvG-1920-80.jpg",
+      "published": "2026-11-20T21:52:04+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures"
+      "title_original": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster"
     },
     {
-      "title": "GTA 5 の Steam の同時並列は、GTA 6 が出て、多くの PC のプレイヤーが待っているのを示唆しているのではなく、上回っています。",
-      "summary": "GTA 6を自宅に置いています。",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting/",
-      "image": "https://cdn.mos.cms.futurecdn.net/V3ohCaMkArszR4kiiXTpTB-1920-80.jpg",
-      "published": "2026-11-19T22:00:43+00:00",
+      "title": "ロックスターのスタッフの21%は、GTA 6の記録的な破壊打ち上げについて多くのことを説明する10年以上の会社によって採用されています",
+      "summary": "知っておく人達に、成功したゲームを作るのは簡単です。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+      "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg",
+      "published": "2026-11-20T20:41:34+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting"
+      "title_original": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch"
     },
     {
-      "title": "GTA 6でベネディクト・ハリファックスに彫像を与える必要がありますか?",
-      "summary": "または偏心アンティークのディーラーを信頼しないでください?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-give-statue-to-benedict-halifax-or-not/",
-      "image": "https://cdn.mos.cms.futurecdn.net/h8oVckhRZesa3PtsEv8xjK-1920-80.jpg",
-      "published": "2026-11-19T21:56:00+00:00",
+      "title": "グラン・セフト・オート 6 が発売日に 3.79 億ドルを獲得",
+      "summary": "GTA 6のプレオーダー合計約32.5万部",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day/",
+      "image": "https://cdn.mos.cms.futurecdn.net/LKBnVpRq3heeVoNhrBEiUK-1920-80.jpg",
+      "published": "2026-11-20T19:51:48+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Should you give the statue to Benedict Halifax in GTA 6?"
+      "title_original": "Grand Theft Auto 6 earned $3.79 billion on launch day"
     },
     {
-      "title": "GTA 6では、ロベリーのミッションをデライトし、FrankieとMarioの助けや助けを借りていませんか?",
-      "summary": "フランキーは、あなたが踊ることができるかどうかを知りたいです。 あなたが言うべきことは何ですか?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help/",
-      "image": "https://cdn.mos.cms.futurecdn.net/9wrdndV8AfZWSNKCXbZQY-1920-80.jpg",
-      "published": "2026-11-19T21:46:10+00:00",
+      "title": "Etsyの売り手は、プラットフォームの新しいAIトレーニングポリシーに対応する店舗を閉鎖しています",
+      "summary": "プラットフォームは、新しいAIトレーニングポリシーが店先やツールの改善にのみ意図されていると述べていますが、誰もがそれを購入しているわけではありません。",
+      "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+      "image": "https://cdn.mos.cms.futurecdn.net/6UCWcJhrM4t2gQxgHwpjwh-1920-80.jpg",
+      "published": "2026-11-20T19:02:52+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?"
+      "title_original": "Etsy sellers are closing their stores in response to the platform's new AI training policy"
     },
     {
-      "title": "事実チェック:GTA 6は、ゲイのナイトクラブ内の撮影から選手を停止し、建物に平面をクラッシュ?",
-      "summary": "ここに真実であり、これらの誤解を招くGrand Theft Auto 6の主張について真実ではないものがあります。",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/fact-check-does-gta-6-stop-players-from-shooting-inside-gay-nightclubs-and-crashing-planes-into-buildings/",
-      "image": "https://cdn.mos.cms.futurecdn.net/h9MevpH3XRutQPqnK8ALxP-1920-80.jpg",
-      "published": "2026-11-19T21:24:15+00:00",
+      "title": "NYTは文書を報告します。-NvidiaのCEOのJensen Huangの10年は、従業員の行動を上げる:「彼は両方の腕を下位からリッピングし、それらと死に頭の上に人を打つだろう」",
+      "summary": "「お金だけでやる気を起こさない」というHuangの主張。",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nyt-report-documents-ex-nvidia-ceo-jensen-huangs-decades-of-berating-employees-he-said-he-would-rip-both-arms-off-a-subordinate-and-beat-the-person-over-the-head-to-death-with-them/",
+      "image": "https://cdn.mos.cms.futurecdn.net/AVosit5WF73S3mLAR7exK3-1920-80.jpg",
+      "published": "2026-11-20T16:52:44+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Fact check: Does GTA 6 stop players from shooting inside gay nightclubs and crashing planes into buildings?"
+      "title_original": "NYT report documents ex-Nvidia CEO Jensen Huang's decades of berating employees: 'He said he would rip both arms off a subordinate and beat the person over the head to death with them'"
+    },
+    {
+      "title": "GameStop ボスは、GTA 6 がデジタル ギャングブスターをしているように、物理的なディスクのリターンを呼び出します",
+      "summary": "はい、それは本当です:この人はディスクを持っていません。",
+      "url": "https://www.pcgamer.com/gaming-industry/gamestop-boss-calls-for-return-of-physical-discs-just-as-gta-6-does-digital-gangbusters/",
+      "image": "https://cdn.mos.cms.futurecdn.net/sem9rUwweFsxvNMZtfPBPU-1920-80.jpg",
+      "published": "2026-11-20T16:45:10+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "GameStop boss calls for return of physical discs just as GTA 6 does digital gangbusters"
     }
   ]
 }
