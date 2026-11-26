@@ -1,125 +1,125 @@
 {
-  "updated_at": "2026-11-25T03:57:46.236800+00:00",
+  "updated_at": "2026-11-26T03:22:34.461674+00:00",
   "articles": [
     {
-      "title": "『GTA6』、死ぬまで続く「最大手配度6」を解除する方法が編み出される。逃げる先は“過去”",
-      "summary": "『グランド・セフト・オートVI（GTA6）』にて、手配度最大の★6状態から逃げ切る方法を発見したユーザーが現れた。",
-      "url": "https://automaton-media.com/articles/newsjp/20261125-480816/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480816-header.jpg",
-      "published": "2026-11-25T03:47:18+00:00",
+      "title": "PS5/PS4向け「PS Plusフリープレイ」12月は人気根強い『ドラゴンボール ゼノバース2』など配布へ。総額2万弱",
+      "summary": "ソニー・インタラクティブエンタテインメントは11月26日、PlayStation Plus加入者向けの12月のフリープレイ提供コンテンツ情報を公開した。",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-481040/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481040-header.jpg",
+      "published": "2026-11-26T03:21:27+00:00",
       "source": "AUTOMATON",
       "category": "JAPAN",
-      "title_original": "『GTA6』、死ぬまで続く「最大手配度6」を解除する方法が編み出される。逃げる先は“過去”"
+      "title_original": "PS5/PS4向け「PS Plusフリープレイ」12月は人気根強い『ドラゴンボール ゼノバース2』など配布へ。総額2万弱"
     },
     {
-      "title": "アナリストは、GTA 6が出てからプレイヤーのデューティロス44%のコールを推定し、ライブサービスの競合他社のファンとは異なり、戻って来るまで遅くなりました",
-      "summary": "フォーチュナイト選手はもっと忠実です。",
-      "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
-      "image": "https://cdn.mos.cms.futurecdn.net/5EWnGC9pvFVHwRsPbdM4uV-1920-80.jpg",
-      "published": "2026-11-25T03:34:01+00:00",
+      "title": "『モンスターハンターNow』が、なんばの街をジャック。リアルイベント「カーニバル 2026：大阪」現地レポート。巨大ジンオウガが駅前にやってきた",
+      "summary": "筆者は、そんなカーニバル 2026：大阪の1日目を現地で取材した。本記事では、当日のイベントの様子と現地の盛り上がりについてお伝えする。",
+      "url": "https://automaton-media.com/articles/reportjp/monster-20261126-481016/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-481016-header.jpg",
+      "published": "2026-11-26T03:11:59+00:00",
+      "source": "AUTOMATON",
+      "category": "JAPAN",
+      "title_original": "『モンスターハンターNow』が、なんばの街をジャック。リアルイベント「カーニバル 2026：大阪」現地レポート。巨大ジンオウガが駅前にやってきた"
+    },
+    {
+      "title": "現代兵器戦略シム『大戦略SSB2』、異色の『R-TYPE』コラボDLCは無料配信へ。さらに来年も毎月シナリオマップ追加、ロードマップ公開",
+      "summary": "システムソフト・ベータは11月26日、戦略シム『大戦略SSB2』について、2027年のロードマップを公開した。",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-480998/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/header-6.jpg",
+      "published": "2026-11-26T03:00:01+00:00",
+      "source": "AUTOMATON",
+      "category": "JAPAN",
+      "title_original": "現代兵器戦略シム『大戦略SSB2』、異色の『R-TYPE』コラボDLCは無料配信へ。さらに来年も毎月シナリオマップ追加、ロードマップ公開"
+    },
+    {
+      "title": "メルブラ新作『MELTY BLOOD: TWI-LUMINA』パッケージ版予約開始。初回限定版には“アケコンボタン”付属、豪華店舗別特典も",
+      "summary": "アニプレックスは11月26日、『MELTY BLOOD: TWI-LUMINA（メルティブラッド：トワイルミナ）』のパッケージ版予約販売を開始した。",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-480995/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-480995-header.jpg",
+      "published": "2026-11-26T01:26:22+00:00",
+      "source": "AUTOMATON",
+      "category": "JAPAN",
+      "title_original": "メルブラ新作『MELTY BLOOD: TWI-LUMINA』パッケージ版予約開始。初回限定版には“アケコンボタン”付属、豪華店舗別特典も"
+    },
+    {
+      "title": "現代兵器戦略シム『大戦略SSB2』新作級の刷新「シーズン2」開幕。無料大型アプデで「技術力」など実装、大型DLCでは“SRPG風”に遊べる",
+      "summary": "システムソフト・ベータは11月26日、戦略シム『大戦略SSB2』向けのシーズン2を配信した。",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-480981/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-480981-header.jpg",
+      "published": "2026-11-26T01:00:04+00:00",
+      "source": "AUTOMATON",
+      "category": "JAPAN",
+      "title_original": "現代兵器戦略シム『大戦略SSB2』新作級の刷新「シーズン2」開幕。無料大型アプデで「技術力」など実装、大型DLCでは“SRPG風”に遊べる"
+    },
+    {
+      "title": "『グランド・セフト・オートVI（GTA6）』ではプレイヤーも「犯罪される側」、強盗から拉致まで被害報告多数。警察すら因縁つけてくる",
+      "summary": "『GTA6』では、プレイヤーがむしろ「襲われる側」になることも多いとして、“被害報告”がたびたび寄せられている。",
+      "url": "https://automaton-media.com/articles/newsjp/20261126-480970/",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261126-480970-header.jpg",
+      "published": "2026-11-26T00:20:37+00:00",
+      "source": "AUTOMATON",
+      "category": "JAPAN",
+      "title_original": "『グランド・セフト・オートVI（GTA6）』ではプレイヤーも「犯罪される側」、強盗から拉致まで被害報告多数。警察すら因縁つけてくる"
+    },
+    {
+      "title": "GTA 6は、実際のフロリダは、その街路灯をネジアップしたので、紫色の街灯を奇妙な持っている",
+      "summary": "ロックスターはフロリダのインフラで恥ずかしいミスを再現しました。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-weird-purple-streetlights-because-actual-florida-screwed-up-its-streetlights/",
+      "image": "https://cdn.mos.cms.futurecdn.net/qP2t3NgyYc4YTtxyNnMSoK-1920-80.jpg",
+      "published": "2026-11-25T22:36:12+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back"
+      "title_original": "GTA 6 has weird purple streetlights because actual Florida screwed up its streetlights"
     },
     {
-      "title": "基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎっしり。ジオラマでパシャリ、サウナでびっしょり。めくるめくシノビ日和",
-      "summary": "11月29日に配信予定の『シノビNEXUS –閃乱カグラ–』を先行プレイした。美麗な3Dモデルに着せ替え、ジオラマ、そしてサウナで汗をかく「シノビスパ」まで、シノビを愛でる要素が充実した仕上がりだった。",
-      "url": "https://automaton-media.com/articles/reportjp/shinovi-nexus-20261125-480798/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480798-header.jpg",
-      "published": "2026-11-25T03:04:29+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎっしり。ジオラマでパシャリ、サウナでびっしょり。めくるめくシノビ日和"
-    },
-    {
-      "title": "40年続く戦略シム『大戦略』が、本気でグローバル展開に挑む『大戦略SSB2』シーズン2。ほぼ新作級の進化の狙い、“なぜか妙に強いインド”の秘密などを訊いた",
-      "summary": "40年続く『大戦略』シリーズで初となる「シーズン2」では何が変わるのか。キャンペーンモードや技術力、無人戦闘機など新要素の狙いを開発陣に訊いた。",
-      "url": "https://automaton-media.com/articles/interviewsjp/20261125-480782/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480782-001.jpg",
-      "published": "2026-11-25T03:00:06+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "40年続く戦略シム『大戦略』が、本気でグローバル展開に挑む『大戦略SSB2』シーズン2。ほぼ新作級の進化の狙い、“なぜか妙に強いインド”の秘密などを訊いた"
-    },
-    {
-      "title": "カプコンの恐竜シューター『エグゾプライマル』、来年9月にサービス終了へ。根強く愛された意欲作",
-      "summary": "カプコンは11月25日、『エグゾプライマル』を2027年9月30日正午でサービス終了すると発表した。2023年7月14日の発売以来、約4年でのサービス終了となるかたちだ。",
-      "url": "https://automaton-media.com/articles/newsjp/20261125-480780/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480780-header.jpg",
-      "published": "2026-11-25T02:36:19+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "カプコンの恐竜シューター『エグゾプライマル』、来年9月にサービス終了へ。根強く愛された意欲作"
-    },
-    {
-      "title": "『マリオカート ワールド』大型アプデ到来、「新コース」が8種類追加。いつものコースが“逆走”&“アレンジ”で姿を変える",
-      "summary": "任天堂は11月25日、『マリオカート ワールド』にVer.1.9.0アップデートを実施した。同アプデではレース向けに8コースを追加、またサバイバル向けのラリーコースも2種追加されている。",
-      "url": "https://automaton-media.com/articles/newsjp/20261125-480776/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480776-header.jpg",
-      "published": "2026-11-25T01:45:02+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "『マリオカート ワールド』大型アプデ到来、「新コース」が8種類追加。いつものコースが“逆走”&“アレンジ”で姿を変える"
-    },
-    {
-      "title": "日本でも人気なSRPG続編『Symphony of War II: Dominion』正式発表。海戦追加にクラスは100種以上に倍増、より奥深くなった壮大戦記",
-      "summary": "Hooded Horseは11月24日、Dancing Dragon Gamesが開発するターン制SRPG『Symphony of War II: Dominion』を正式発表した。",
-      "url": "https://automaton-media.com/articles/newsjp/20261125-480769/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480769-header.png",
-      "published": "2026-11-25T00:42:54+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "日本でも人気なSRPG続編『Symphony of War II: Dominion』正式発表。海戦追加にクラスは100種以上に倍増、より奥深くなった壮大戦記"
-    },
-    {
-      "title": "NVIDIAグラボ向けに「SSD無限酷使」を修正する最新パッチ配信開始。今度こそ直ってそう",
-      "summary": "NVIDIAは現地時間11月24日、GPU向けドライバー「GeForce Game Ready Driver」向けにバージョン621.40を配信した。同パッチでは、SSDへの大量の書き込みがおこなわれる不具合の修正がおこなわれたとしている。",
-      "url": "https://automaton-media.com/articles/newsjp/20261125-480766/",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480766-header.jpeg",
-      "published": "2026-11-25T00:39:35+00:00",
-      "source": "AUTOMATON",
-      "category": "JAPAN",
-      "title_original": "NVIDIAグラボ向けに「SSD無限酷使」を修正する最新パッチ配信開始。今度こそ直ってそう"
-    },
-    {
-      "title": "Witcher 3とWitcher 4の違いは、GTA 5とGTA 6のCD Projekt上司のそれに「比較可能」されます。",
-      "summary": "CD Projekt RedはQ3の収益を今日報告しましたが、誰がGTA 6について話したいと思っていました。",
-      "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
-      "image": "https://cdn.mos.cms.futurecdn.net/KX9wRQWZx64zoeXgj8Ebhi-1920-80.jpg",
-      "published": "2026-11-24T23:03:45+00:00",
+      "title": "Warhammer Survivors は XP と武器をアップデートし、Nurgle のダム・ビーストをナフ",
+      "summary": "私はそれらの人を憎む.",
+      "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-update-buffs-xp-and-weapons-nerfs-those-damn-beasts-of-nurgle/",
+      "image": "https://cdn.mos.cms.futurecdn.net/CVd4Rg5uZxpFA8cxauZJcf-1920-80.jpg",
+      "published": "2026-11-25T22:32:23+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'"
+      "title_original": "Warhammer Survivors update buffs XP and weapons, nerfs those damn Beasts of Nurgle"
     },
     {
-      "title": "私は、ブロッキー、ファクショニエスクの宇宙船とシムAstarioの構築のために十分にスマートではありませんが、今、それは早期アクセスで出ているかもしれない多分、あなたはすることができます",
-      "summary": "さまざまな種類のスマートがあり、私はAstario、宇宙船、宇宙ステーションビル工場のSIMが早期アクセスに開始したばかりのファクショニオを彷彿とさせるようなゲームに関しては、絶対にゼロヘルプです。 周りの頭を覆うことができないような方法で、とても多くの可動部分があると思いますが、いくつかなるとかなり確信していますので、もう少し詳しく説明しなければならないス",
-      "url": "https://www.rockpapershotgun.com/im-not-smart-enough-for-the-blocky-factorio-esque-spaceship-and-station-building-sim-astario-but-now-that-its-out-in-early-access-maybe-you-could-be",
-      "image": "https://assetsio.gnwcdn.com/astario.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "published": "2026-11-24T22:51:40+00:00",
-      "source": "Rock Paper Shotgun",
-      "category": "PC GAMING",
-      "title_original": "I'm not smart enough for the blocky, Factorio-esque spaceship and -station building sim Astario, but now that it's out in early access maybe you could be"
-    },
-    {
-      "title": "NvidiaパッチはついにSSD-hammeringのバグを最後のHotfixは実際に修正しなかった",
-      "summary": "「悪が敗れた」",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
-      "image": "https://cdn.mos.cms.futurecdn.net/UZCzR9Jjj3aY2bSV34gieb-1920-80.jpg",
-      "published": "2026-11-24T22:04:28+00:00",
+      "title": "Capcom の quirky 恐竜 戦う ヒーロー シューター ダウン に 2027",
+      "summary": "エクソプリマルは興味をそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそそも火を捕らなかった。",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/capcoms-quirky-dinosaur-fighting-hero-shooter-is-shutting-down-in-2027/",
+      "image": "https://cdn.mos.cms.futurecdn.net/9Ys8e7WjThYWVFVFJ47v6R-1920-80.jpg",
+      "published": "2026-11-25T21:37:51+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix"
+      "title_original": "Capcom's quirky dinosaur-fighting hero shooter is shutting down in 2027"
     },
     {
-      "title": "GTA 6をPCに移植するレースの説明",
-      "summary": "GTA 6 は、PC ゲーム (通常) の日数の問題で.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
-      "image": "https://cdn.mos.cms.futurecdn.net/zBXjPfrsDijbDn8itHz9CE-1920-80.jpg",
-      "published": "2026-11-24T21:47:58+00:00",
+      "title": "トランプ管理者は、Nvidiaをプッシュする前に、Jensen Huangを調査しませんでした。 お問い合わせ",
+      "summary": "Nvidiaは、米国弁護士総トッド・ブランシュによると、調査中ではありません。",
+      "url": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/",
+      "image": "https://cdn.mos.cms.futurecdn.net/Gv633MiZGGDKePyr3xCf5i-1920-80.jpg",
+      "published": "2026-11-25T21:31:41+00:00",
       "source": "PC Gamer",
       "category": "PC GAMING",
-      "title_original": "The race to port GTA 6 to PC, explained"
+      "title_original": "Trump admin didn't investigate Jensen Huang before pushing Nvidia to bring him back: 'What does that mean, had Huang been investigated? For what?'"
+    },
+    {
+      "title": "GTA 6ボルト:大きな銀行ジョブの間にそれらを開く方法",
+      "summary": "銀行の金庫と預金箱を開くと、単一の犯罪で100,000ドル以上を作ることができます。",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "image": "https://cdn.mos.cms.futurecdn.net/he79YK28p3viRdnY2Hduej-1920-80.jpg",
+      "published": "2026-11-25T21:31:26+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "GTA 6 vault: How to open them during big bank jobs"
+    },
+    {
+      "title": "EAスポーツFCのAIで復活したBBCフットボールのメンメンメンテーター:家族は「接触の分裂」と言っていますが、一部のファンは「総数」と「弱い」と呼んでいます",
+      "summary": "伝説のフットボール・パンディット・ジョン・モットソンが、AIフォームで、今日のEA FC 27タイトルアップデートでシリーズに戻ります。",
+      "url": "https://www.pcgamer.com/software/ai/deceased-bbc-football-commentator-resurrected-with-ai-for-ea-sports-fc-the-family-says-its-a-touching-tribute-but-some-fans-call-it-gross-and-bleak/",
+      "image": "https://cdn.mos.cms.futurecdn.net/JbZUfbMvBcAqZSrhMcwk7L-1920-80.jpg",
+      "published": "2026-11-25T20:23:51+00:00",
+      "source": "PC Gamer",
+      "category": "PC GAMING",
+      "title_original": "Deceased BBC football commentator resurrected with AI for EA Sports FC: The family says it's a 'touching tribute' but some fans call it 'gross' and 'bleak'"
     }
   ]
 }
